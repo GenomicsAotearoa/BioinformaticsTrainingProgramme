@@ -1,4 +1,4 @@
 ## Material for bioinformatics training programme website
 
 
-genomicsaotearoa.github.io/BioinformaticsTrainingProgramme/
+https://genomicsaotearoa.github.io/BioinformaticsTrainingProgramme/
