@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bioinformatics Training Programme - Workshop portfolio</title>
+<title>portfolio – Bioinformatics Training Programme</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,25 +30,34 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./assets/img/nesi_ga.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<link href="./assets/logos/GA-image-black-icon.gif" rel="icon" type="image/gif">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-cec5a0e53abf3ed84780f7624409562e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-1fe59c23d1fe1481fdb73e4aec199ce9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-cec5a0e53abf3ed84780f7624409562e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,6 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -67,44 +77,210 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed portfolio quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Bioinformatics Training Programme</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Training Programme Overview</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Training Programme Overview</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./portfolio.html" rel="" target="" aria-current="page">
- <span class="menu-text">Workshop portfolio</span></a>
+    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
+<span class="menu-text">Workshop Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">Genomics Aotearoa</span></a>
+    <a class="nav-link" href="./genomicsaotearoa.html"> 
+<span class="menu-text">Genomics Aotearoa</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./meetTheTeam.html" rel="" target="">
- <span class="menu-text">Meet the Training Team</span></a>
+    <a class="nav-link" href="./meetTheTeam.html"> 
+<span class="menu-text">Meet the Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./ContactUs.html"> 
+<span class="menu-text">Contact us</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -117,22 +293,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#workshop-structure-style-and-expectation" id="toc-workshop-structure-style-and-expectation" class="nav-link active" data-scroll-target="#workshop-structure-style-and-expectation">Workshop structure, style and expectation</a></li>
-  <li><a href="#introductory-workshops" id="toc-introductory-workshops" class="nav-link" data-scroll-target="#introductory-workshops">Introductory workshops</a>
+  <li><a href="#overview-of-workshops" id="toc-overview-of-workshops" class="nav-link active" data-scroll-target="#overview-of-workshops">Overview of workshops</a>
   <ul class="collapse">
-  <li><a href="#introduction-to-bash-scripting-and-hpc-job-scheduler" id="toc-introduction-to-bash-scripting-and-hpc-job-scheduler" class="nav-link" data-scroll-target="#introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</a></li>
-  <li><a href="#introduction-to-the-r-programming-language" id="toc-introduction-to-the-r-programming-language" class="nav-link" data-scroll-target="#introduction-to-the-r-programming-language">Introduction to the R Programming Language</a></li>
-  <li><a href="#rna-seq-data-analysis" id="toc-rna-seq-data-analysis" class="nav-link" data-scroll-target="#rna-seq-data-analysis">RNA-seq Data Analysis</a></li>
-  <li><a href="#genomics-data-carpentry-introduction-to-shell" id="toc-genomics-data-carpentry-introduction-to-shell" class="nav-link" data-scroll-target="#genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</a></li>
+  <li><a href="#core-programme" id="toc-core-programme" class="nav-link" data-scroll-target="#core-programme">Core programme</a></li>
+  <li><a href="#ancillary-programme" id="toc-ancillary-programme" class="nav-link" data-scroll-target="#ancillary-programme">Ancillary programme</a></li>
   </ul></li>
-  <li><a href="#intermediate-workshops" id="toc-intermediate-workshops" class="nav-link" data-scroll-target="#intermediate-workshops">Intermediate workshops</a>
+  <li><a href="#core-programme-1" id="toc-core-programme-1" class="nav-link" data-scroll-target="#core-programme-1">Core programme</a>
   <ul class="collapse">
-  <li><a href="#intermediate-shell-for-bioinformatics" id="toc-intermediate-shell-for-bioinformatics" class="nav-link" data-scroll-target="#intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</a></li>
-  <li><a href="#intermediate-r-advance-your-skills-with-the-r-programming-language" id="toc-intermediate-r-advance-your-skills-with-the-r-programming-language" class="nav-link" data-scroll-target="#intermediate-r-advance-your-skills-with-the-r-programming-language">Intermediate R: advance your skills with the R programming language</a></li>
+  <li><a href="#introductory-level" id="toc-introductory-level" class="nav-link" data-scroll-target="#introductory-level">Introductory level</a></li>
+  <li><a href="#intermediate-level" id="toc-intermediate-level" class="nav-link" data-scroll-target="#intermediate-level">Intermediate level</a></li>
+  <li><a href="#specialised" id="toc-specialised" class="nav-link" data-scroll-target="#specialised">Specialised</a></li>
+  </ul></li>
+  <li><a href="#ancilliary-programme" id="toc-ancilliary-programme" class="nav-link" data-scroll-target="#ancilliary-programme">Ancilliary programme</a>
+  <ul class="collapse">
   <li><a href="#outlier-analysis" id="toc-outlier-analysis" class="nav-link" data-scroll-target="#outlier-analysis">Outlier Analysis</a></li>
-  </ul></li>
-  <li><a href="#advanced-workshops" id="toc-advanced-workshops" class="nav-link" data-scroll-target="#advanced-workshops">Advanced workshops</a>
-  <ul class="collapse">
   <li><a href="#reproducible-bioinformatics-with-nextflow-and-nf-core" id="toc-reproducible-bioinformatics-with-nextflow-and-nf-core" class="nav-link" data-scroll-target="#reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</a></li>
   <li><a href="#constructing-pangenome-graphs-with-pggb" id="toc-constructing-pangenome-graphs-with-pggb" class="nav-link" data-scroll-target="#constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</a></li>
   <li><a href="#scaling-gene-regulatory-networks-simulations" id="toc-scaling-gene-regulatory-networks-simulations" class="nav-link" data-scroll-target="#scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</a></li>
@@ -141,172 +315,252 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Workshop portfolio</h1>
+
+
+
+
+<section id="overview-of-workshops" class="level1">
+<h1>Overview of workshops</h1>
+<section id="core-programme" class="level3">
+<h3 class="anchored" data-anchor-id="core-programme">Core programme</h3>
+<p><strong>Beginner</strong><br>
+• <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a><br>
+• <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a><br>
+• <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a></p>
+<p><strong>Intermediate</strong><br>
+• <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to bash scripting and HPC job scheduler</a><br>
+• <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate shell</a><br>
+• <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a></p>
+<p><strong>Specialised</strong><br>
+• <a href="https://genomicsaotearoa.github.io/visualization_day/">Visualisation with ggplot2</a></p>
+</section>
+<section id="ancillary-programme" class="level3">
+<h3 class="anchored" data-anchor-id="ancillary-programme">Ancillary programme</h3>
+<p><strong>Other specialised workshops</strong> <em>(some of these workshops are under development)</em><br>
+• <a href="tylermcinnes.github.io/reproducibility_block/">Reproducibility with git and quarto</a><br>
+• <a href="https://genomicsaotearoa.github.io/scRNA-seq-data-analysis/">Single cell RNAseq</a><br>
+• <a href="https://genomicsaotearoa.github.io/Nextflow_Workshop/">Introduction to Nextflow</a><br>
+• <a href="https://genomicsaotearoa.github.io/microbial_genomics_short_reads/">Microbial genomics short reads</a><br>
+• <a href="https://genomicsaotearoa.github.io/long-read-assembly-one-day/">Long read genome assembly</a><br>
+• <a href="https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/">Pangenome graphs</a><br>
+• <a href="https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/">Outlier analysis</a><br>
+• <a href="https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/">Gene regulatory network simulations</a><br>
+• <a href="https://genomicsaotearoa.github.io/intro-to-containers/">Introduction to Containers</a></p>
+<p><em>Got a workshop topic suggestion?</em> <a href="./ContactUs.html">Let us know!</a></p>
+</section>
+</section>
+<section id="core-programme-1" class="level1">
+<h1>Core programme</h1>
+<section id="introductory-level" class="level2">
+<h2 class="anchored" data-anchor-id="introductory-level">Introductory level</h2>
+<p><em>Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.</em></p>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Introduction to the R Programming Language
+</h3>
+<p><img src="assets/workshop-mainpage-image/Rlogo-colour.jpeg" alt="R logo" style="width:150px; height:auto;"></p>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="workshop-structure-style-and-expectation" class="level2">
-<h2 class="anchored" data-anchor-id="workshop-structure-style-and-expectation">Workshop structure, style and expectation</h2>
-<p>All workshops are run under The Carpentries <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a> to promote a safe and inclusive working environment.</p>
-<p>Our training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.</p>
-<p>Our workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser.</p>
-<p>All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.</p>
-<p>Workshops are either in person or online (zoom), and are usually one or two days (10am - 4pm).</p>
-</section>
-<section id="introductory-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="introductory-workshops">Introductory workshops</h2>
-<p>Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.</p>
-<section id="introduction-to-bash-scripting-and-hpc-job-scheduler" class="level3">
-<h3 class="anchored" data-anchor-id="introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</h3>
-<p>Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment. Some of the topics covered in the workshop are:</p>
+<p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop and intermediate R workshops. Some of the topics covered in the workshop are:</p>
 <ul>
-<li><p>Designing a variant calling workflow.</p></li>
-<li><p>Automating a workflow.</p></li>
-<li><p>An introduction to HPC.</p></li>
-<li><p>Working with job scheduler.</p></li>
-</ul>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to Bash Scripting and HPC Scheduler</a></p>
-</section>
-<section id="introduction-to-the-r-programming-language" class="level3">
-<h3 class="anchored" data-anchor-id="introduction-to-the-r-programming-language">Introduction to the R Programming Language</h3>
-<p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop. Some of the topics covered in the workshop are:</p>
-<ul>
-<li><p>An introduction to R and RStudio.</p></li>
-<li><p>R basics: The R language, reading data into R, storing data as objects.</p></li>
-<li><p>R packages.</p></li>
-<li><p>Publication-quality data presentation using ggplot2.</p></li>
-<li><p>Knitr: keep track of workflow and produce easy-to-follow reports of your work.</p></li>
-<li><p>Where to get more help when you are ready to do more.</p></li>
+<li>An introduction to R and RStudio.</li>
+<li>R basics: The R language, reading data into R, storing data as objects.</li>
+<li>R packages.</li>
+<li>Publication-quality data presentation using <code>ggplot2</code>.</li>
+<li>Where to get more help when you are ready to do more.</li>
 </ul>
 <p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to the R Programming Language</a></p>
-</section>
-<section id="rna-seq-data-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="rna-seq-data-analysis">RNA-seq Data Analysis</h3>
-<p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes. Some of the topics covered in the workshop are:</p>
-<ul>
-<li><p>Quality assessment</p></li>
-<li><p>Trimming and filtering</p></li>
-<li><p>Mapping and read counts</p></li>
-<li><p>Differential expression analysis</p></li>
-<li><p>Over-representation analysis</p></li>
-</ul>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/RNA-seq-workshop/">RNA-seq Data Analysis</a></p>
-</section>
-<section id="genomics-data-carpentry-introduction-to-shell" class="level3">
-<h3 class="anchored" data-anchor-id="genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</h3>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Introduction to Shell
+</h3>
+<p><img src="assets/workshop-mainpage-image/introtoshell.png" alt="welcome to shell" style="width:150px; height:auto;"></p>
+</div>
 <p>Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI)</p>
 <p>During this workshop you will learn:</p>
 <ul>
-<li><p>The importance of the shell.</p></li>
-<li><p>How to navigate files and directories.</p></li>
-<li><p>How to create, view and modify files.</p></li>
-<li><p>Pipes, redirection, and scripts, which will allow you to automate your workflow.</p></li>
+<li>The importance of the shell.</li>
+<li>How to navigate files and directories.</li>
+<li>How to create, view and modify files.</li>
+<li>Pipes, redirection, and scripts, which will allow you to automate your workflow.</li>
 </ul>
-<p>View the full workshop material here: <a href="https://otagobioinformaticsspringschool.github.io/shell-genomics-nesi/index.html">Introduction to the Command Line for Genomics</a></p>
+<p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a></p>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+RNA-seq Data Analysis
+</h3>
+<p><img src="assets/workshop-mainpage-image/mainRNA_image.png" alt="RNAimage" style="width:150px; height:auto;"></p>
+</div>
+<p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes. Some of the topics covered in the workshop are:</p>
+<ul>
+<li>Quality assessment</li>
+<li>Trimming and filtering</li>
+<li>Mapping and read counts</li>
+<li>Differential expression analysis</li>
+<li>Over-representation analysis</li>
+</ul>
+<p>We assume the learner has familiarity with basic transcriptomic and biological concepts, in particular that they know what a FASTA/FASTQ file is and what sequencing libraries are. No prior experience in analysing RNA-seq data is required.</p>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a></p>
+<hr>
 </section>
-</section>
-<section id="intermediate-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="intermediate-workshops">Intermediate workshops</h2>
-<section id="intermediate-shell-for-bioinformatics" class="level3">
-<h3 class="anchored" data-anchor-id="intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</h3>
+<section id="intermediate-level" class="level2">
+<h2 class="anchored" data-anchor-id="intermediate-level">Intermediate level</h2>
+<p><em>Our intermediate level workshops are designed to build on skills learned in our introductory level, to enable you to more efficiently analyse your data and streamline your workflow.</em></p>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Introduction to Bash Scripting and HPC Job Scheduler
+</h3>
+<p><img src="assets/workshop-mainpage-image/slurm_llinux_penguin_dna.png" alt="slurm penguin" style="width:150px; height:auto;"></p>
+</div>
+<p>Write your own bash scripts for data analysis and working on an HPC (high performance computing) environment. Some of the topics covered in the workshop are:</p>
+<ul>
+<li>Designing a variant calling workflow.</li>
+<li>Automating a workflow.</li>
+<li>An introduction to HPC.</li>
+<li>Working with job scheduler.</li>
+</ul>
+<p><strong>Prerequisites</strong>:<br>
+Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience)</p>
+<p>We assume learners have familiarity with genomic concepts, but do not specifically need to be working on variant calling workflows to learn the basics of bash scripting and job scheduling in this workshop.</p>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to Bash Scripting and HPC Scheduler</a></p>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Intermediate Shell for Bioinformatics
+</h3>
+<p><img src="assets/workshop-mainpage-image/new_unix_tuxlogo.png" alt="slurm penguin" style="width:150px; height:auto;"></p>
+</div>
 <p>Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing. This includes:</p>
 <ul>
-<li><p>An overview of the Shell, UNIX and Linux.</p></li>
-<li><p>Downloading data from a remote source and checking data integrity.</p></li>
-<li><p>Recap navigating files and directories, and commands used in routine tasks.</p></li>
-<li><p>Inspecting and manipulating data, part 1 (the head, less, grep, and sed commands).</p></li>
-<li><p>Inspecting and manipulating data, part 2 (using awk and bioawk to process text).</p></li>
-<li><p>Automating file processing.</p></li>
-<li><p>Challenges: solve example molecular biology problems using shell scripts.</p></li>
+<li>An overview of the Shell, UNIX and Linux.<br>
+</li>
+<li>Downloading data from a remote source and checking data integrity.<br>
+</li>
+<li>Recap navigating files and directories, and commands used in routine tasks.<br>
+</li>
+<li>Inspecting and manipulating data (the <code>head</code>, <code>tail</code>, <code>grep</code>, <code>sed</code> and <code>awk</code> commands).<br>
+</li>
+<li>Automating file processing.<br>
+</li>
+<li>Challenges: solve example molecular biology problems using shell scripts.</li>
 </ul>
+<p><strong>Prerequisites:</strong><br>
+Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience)</p>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate Shell for Bioinformatics</a></p>
-</section>
-<section id="intermediate-r-advance-your-skills-with-the-r-programming-language" class="level3">
-<h3 class="anchored" data-anchor-id="intermediate-r-advance-your-skills-with-the-r-programming-language">Intermediate R: advance your skills with the R programming language</h3>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Intermediate R
+</h3>
+<p><img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="IntermediateR logo" style="width:150px; height:auto;"></p>
+</div>
 <p>Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code. Some of the topics covered in the workshop are:</p>
 <ul>
-<li><p>Introduction to relational data and the join function.</p></li>
-<li><p>Working with regular expressions and functions from the stringr package.</p></li>
-<li><p>Writing custom functions, working with conditional statements.</p></li>
-<li><p>‘Defensive programming’.</p></li>
-<li><p>Iterations - for loops, and map_*() functions.</p></li>
-<li><p>The importance of data structure in R.</p></li>
+<li>Introduction to relational data and the join function.<br>
+</li>
+<li>Working with regular expressions and functions from the stringr package.<br>
+</li>
+<li>Writing custom functions, working with conditional statements.<br>
+</li>
+<li>‘Defensive programming’.<br>
+</li>
+<li>Iterations - for loops, and <code>map_*()</code> functions.<br>
+</li>
+<li>The importance of data structure in R.</li>
 </ul>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R: advancing your skills with the R programming language</a></p>
+<p><strong>Prerequisites:</strong><br>
+Comfortable using R / R Studio at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or have equivalent experience)</p>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a></p>
+<hr>
 </section>
+<section id="specialised" class="level2">
+<h2 class="anchored" data-anchor-id="specialised">Specialised</h2>
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+<h3 class="anchored">
+Visualisation with ggplot2
+</h3>
+<p><img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="IntermediateR logo" style="width:150px; height:auto;"></p>
+</div>
+<p>Visualisation is more than just the code used to make a plot.</p>
+<p>The aim for this workshop is to showcase the full process of visualising data. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.</p>
+<p>This workshop is split into four parts:</p>
+<ul>
+<li>Basic ggplot format and showcase of what can be done.</li>
+<li>Some data transformations and tidying, viz for exploratory analysis.</li>
+<li>Group walkthrough of creating a visualization of example data.</li>
+<li>Working on your own data: plan, transform data, visualize.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or have equivalent experience). Some familiarity with <code>ggplot2</code> will be useful but not required.</p>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/visualization_day/">From Start to Finish: Visualizing Your Data</a></p>
+</section>
+</section>
+<section id="ancilliary-programme" class="level1">
+<h1>Ancilliary programme</h1>
 <section id="outlier-analysis" class="level3">
 <h3 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h3>
 <p>Identify regions of the genome that are under forms of selection during a two-day workshop. During this workshop you will:</p>
 <ul>
-<li><p>Download example genomic data (or prepare your own).</p></li>
-<li><p>Use the PCAdapt tool to identify outlier loci within a genome.</p></li>
-<li><p>Use VCFtools to identify outlier SNPS in population comparisons.</p></li>
-<li><p>Use Bayescan to identify outlier SNPS based on allele frequencies.</p></li>
-<li><p>Relate identified SNPS to phenotypic variation.</p></li>
-<li><p>Compare the results of the different methods and discuss the results.</p></li>
+<li>Download example genomic data (or prepare your own).</li>
+<li>Use the PCAdapt tool to identify outlier loci within a genome.</li>
+<li>Use VCFtools to identify outlier SNPS in population comparisons.</li>
+<li>Use Bayescan to identify outlier SNPS based on allele frequencies.</li>
+<li>Relate identified SNPS to phenotypic variation.</li>
+<li>Compare the results of the different methods and discuss the results.</li>
 </ul>
 <p>The focus of this workshop is on identifying signals of selection in an example genome using the outlier analysis method. Outlier analysis assumes that the majority of the genome is under neutral selection and some loci will appear as outliers relative to this background.</p>
 <p>This lesson assumes learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of selection. You are expected to have some familiarity with both the R programming language and with basic command line (bash).</p>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/">Outlier Analysis</a></p>
+<hr>
 </section>
-</section>
-<section id="advanced-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="advanced-workshops">Advanced workshops</h2>
 <section id="reproducible-bioinformatics-with-nextflow-and-nf-core" class="level3">
 <h3 class="anchored" data-anchor-id="reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</h3>
 <p>Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures.</p>
 <p>In this workshop you will:</p>
 <ul>
-<li><p>Be introduced to Nextflow and execute an example pipeline.</p></li>
-<li><p>Be introduced to nf-core, an online repository of curated pipelines.</p></li>
-<li><p>Learn how to configure and customise an existing nf-core pipeline.</p></li>
-<li><p>Generate metrics and reports.</p></li>
+<li>Be introduced to Nextflow and execute an example pipeline.</li>
+<li>Be introduced to nf-core, an online repository of curated pipelines.</li>
+<li>Learn how to configure and customise an existing nf-core pipeline.</li>
+<li>Generate metrics and reports.</li>
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Nextflow_Workshop/">Reproducible Bioinformatics Workflows with Nextflow and nf-core</a></p>
+<hr>
 </section>
 <section id="constructing-pangenome-graphs-with-pggb" class="level3">
 <h3 class="anchored" data-anchor-id="constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</h3>
 <p>How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping. This workshop will include:</p>
 <ul>
-<li><p>An introduction to pangenome graphs.</p></li>
-<li><p>Setup guide for using the tools and data in the workshop.</p></li>
-<li><p>Overview of the PGGB toolkit.</p></li>
-<li><p>Choosing parameters to construct a graph.</p></li>
-<li><p>QC</p></li>
-<li><p>Extracting variant data.</p></li>
-<li><p>Mapping short reads against a pangenome graph.</p></li>
+<li>An introduction to pangenome graphs.</li>
+<li>Setup guide for using the tools and data in the workshop.</li>
+<li>Overview of the PGGB toolkit.</li>
+<li>Choosing parameters to construct a graph.</li>
+<li>QC</li>
+<li>Extracting variant data.</li>
+<li>Mapping short reads against a pangenome graph.</li>
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/">Unlock the Power of Pangenome Graphs</a></p>
+<hr>
 </section>
 <section id="scaling-gene-regulatory-networks-simulations" class="level3">
 <h3 class="anchored" data-anchor-id="scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</h3>
-<p>Simulate gene regulatory networks using R and Julia. This workshop will include: - Why simulations are valuable in systems biology,</p>
-<ul>
-<li><p>What regulatory networks are and how they can be modelled,</p></li>
-<li><p>How to use the sismonr R package to simulate a small regulatory network, and</p></li>
-<li><p>Introduction to High performance computing (HPC)</p></li>
-<li><p>HPC architectures</p></li>
-<li><p>Batch systems and using a Slurm scheduler</p></li>
-<li><p>HPC architectures</p></li>
-<li><p>How to scale up simulations on a HPC through profiling and optimisation</p></li>
-</ul>
+<p>Simulate gene regulatory networks using R and Julia.<br>
+This workshop will include:<br>
+- Why simulations are valuable in systems biology,<br>
+- What regulatory networks are and how they can be modelled,<br>
+- How to use the sismonr R package to simulate a small regulatory network, and<br>
+- Introduction to High performance computing (HPC)<br>
+- HPC architectures<br>
+- Batch systems and using a Slurm scheduler<br>
+- HPC architectures<br>
+- How to scale up simulations on a HPC through profiling and optimisation</p>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/">Scaling Gene Regulatory Networks Simulations</a></p>
+<hr>
 
 
 </section>
@@ -314,354 +568,419 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
     }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
         }
       }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
       return false;
     }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  let localAlternateSentinel = 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-    }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
         }
-      }
-      return codeEl.innerText;
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
     }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
     }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-  function tippyHover(el, contentFn) {
-    const config = {
-      allowHTML: true,
-      content: contentFn,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start'
-    };
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      return note.innerHTML;
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
     }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
       });
     }
-  }
-});
-</script>
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
+
 
 
 

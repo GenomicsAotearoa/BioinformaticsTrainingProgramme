@@ -1,12 +1,12 @@
 ---
-title: "Genomics Aotearoa and NeSI: Bioinformatics Training Programme"
-image: assets/img/nesi_ga.png
+title: "Genomics Aotearoa and REANNZ: Bioinformatics Training Programme"
+image: assets/logos/GA-image-black-icon.gif
 
 about:
   id: hero-heading
   template: solana
-  image: assets/img/nesi_ga.png
-  image-width: 10em
+  image: assets/logos/GA-image-black-icon.gif
+  image-width: 6em
 ---
 
 ## Overview of the Bioinformatics Training Programme
@@ -15,45 +15,89 @@ The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the rese
 
 Training is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows. 
 
-We work closely with our partners at NeSI ([New Zealand eScience Infrastructure](https://www.nesi.org.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
+We work closely with our partners at REANNZ ([Research and Education Advanced Network New Zealand](https://www.reannz.co.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
 Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 94 workshops reaching more than 1,800 participants.
 
+## Workshop structure, style and expectation
+
+Our training workshops are interactive live-coding events. One or more instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
+
+Our workshops run with the help of REANNZ. Our partnership with REANNZ ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser. 
+
+All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available - visit our [Workshop Portfolio](portfolio.qmd) page.
+
+Workshops are either in person or online (zoom), and are usually across one (10am - 4pm) or two days (9am - 1pm). Our core program workshops are run multiple times through the year. Our ancillary program is run based on demand / expression of interest.   
+
+All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
+
+## Are you the right person to attend our training?  
+
+If you are doing, or will be doing, research in Aotearoa that requires bioinformatics tools or skills, you are the right person to attend our training. We have workshops suitable for all skill levels: many of our attendees have their first interaction with any form of coding or programming lanugage during our workshops. 
+
+Whether you are an absolute beginner who has not yet started any bioinformatics, or an experienced user looking to start quickly with a specialist method, we can help. Still have questions? [Contact us](ContactUs.qmd)
 
 
-## Are you the right person to attend our training?
-
-If you are doing, or will be doing, research in Aoteroa that requires bioinformatics tools or skills, you are the right person to attend our training. We have workshops suitable for all skill levels: many of our attendees have their first interaction with any form of coding or programming lanugage during our workshops. 
-
-Our workshops are led by knowledgeable field experts and formally trained educators, with help from enthusiastic members of the research and training community. Workshops are run under the Carpentries Code of Conduct to ensure a safe, comfortable working environment. 
-
-Whether you are an absolute beginner who has not yet started any bioinformatics, or an experienced user looking to start quickly with a specialist method, we can help. To see our list of workshops with descriptions of each, visit our [Workshop Portfolio](portfolio.qmd) page.
 
 
 
+## Past Workshops
+
+::: panel-tabset
+### 2025
 
 
+**July**  
+- Intermediate Shell (30.07.2025)  
 
+**June**  
+- RNA-seq Data Analysis (24-25.06.2025)  
+- Visualisation with ggplot2 (18.06.2025)  
+- Introduction to R (17.06.2025)  
 
-## Recent past workshops
+**May**  
+- Introduction to Quarto (29.05.2025)  
+- Git/github/version control (28.05.2025)  
+- Visualisation workshop (21.05.2025)  
+- Microbial Genome Assembly (13-14.05.2025)  
 
-Intermediate Shell for Bioinformatics (16.04.2024)
+**April**  
+- Intermediate Shell (16.04.2025)  
+- Introduction to Bash (15.04.2025)  
 
-Intermediate R for Data Analysis (10.04.2024)
+**March**  
+- Visualization with ggplot (26.03.2025)  
+- RNA-seq Data Analysis (12.03.2025)  
 
-Introduction to Bash Scripting and HPC Job Scheduler (27.03.2024)
+**February**  
+- Intermediate R (25.02.2025)  
+- Introduction to R (19.02.2025)  
+- Introduction to Shell (04.02.2025)  
 
-RNA-seq Data Analysis (20.03.2024)
+### 2024
+**April**  
+- Intermediate Shell for Bioinformatics (16.04.2024)  
+- Intermediate R for Data Analysis (10.04.2024)  
 
-Long-read Genome Assembly (06.03.2024)
+**March**  
+- Introduction to Bash Scripting and HPC Job Scheduler (27.03.2024)  
+- RNA-seq Data Analysis (20.03.2024)  
+- Long-read Genome Assembly (06.03.2024)
 
-Introduction to R (28.02.2024)
+**February**  
+- Introduction to R (28.02.2024)  
+- Introduction to the Command Line (Bash) (14.02.2024)  
 
-Introduction to the Command Line (Bash) (14.02.2024)
+### 2023
 
-Intermediate R for Bioinformatics (09.11.2023)
+**November**  
+- Intermediate R for Bioinformatics (09.11.2023)  
 
-Reproducible Bioinformatics with Nextflow and nf-core (11.10.2023)
+**October**  
+- Reproducible Bioinformatics with Nextflow and nf-core (11.10.2023)  
 
-Intermediate Shell for Bioinformatics (27.09.2023)
+**September**  
+- Intermediate Shell for Bioinformatics (27.09.2023)  
+:::
+
 

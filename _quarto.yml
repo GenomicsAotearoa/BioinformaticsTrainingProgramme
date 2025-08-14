@@ -4,25 +4,27 @@ project:
 
 website:
   title: "Bioinformatics Training Programme"
-  favicon: assets/img/nesi_ga.png
+  favicon: assets/logos/GA-image-black-icon.gif
   navbar:
     background: primary
     left:
       - href: index.qmd
         text: Training Programme Overview
       - href: portfolio.qmd
-      - href: about.qmd
+        text: Workshop Portfolio
+      - href: genomicsaotearoa.qmd
+        text: Genomics Aotearoa
       - href: meetTheTeam.qmd
-      
+        text: Meet the Team
+      - href: ContactUs.qmd
+        text: Contact us
 
+      
 format:
   html:
     page-layout: full
-    theme: 
+    theme:
         light: flatly
         dark: darkly
     css: styles.css
     toc: true
-
-
-
