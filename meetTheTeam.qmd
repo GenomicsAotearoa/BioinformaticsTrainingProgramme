@@ -8,40 +8,64 @@ The training team includes members of both Genomics Aotearoa and REANNZ (Researc
 
 All workshops are led by an **Instructor**: *subject matter experts who deliver high-level knowledge of the topic, demonstrating code in real-time*.
 
-All workshops are supported by **Helpers**: *knowledgeable people who answer one-off questions or help you to solve issues as they arise*.
-w
+All workshops are supported by **Helpers**: *knowledgeable people who answer one-off questions or help you to solve issues as they arise*.  
+
 **All workshops** have one or more Instructors or Helpers who have *received formal training from The Carpentries or an equivalent*.
 
 
 ## Get to know the team
 
-### Professor Michael Black (Mik Black, GA)
-<div style="text-align: justify;">
-Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago's Department of Biochemistry, [Mik's research focus](https://www.otago.ac.nz/biochemistry/people/profile?id=352) leans towards cancer and human health. 
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="team-photos/MikBlack.jpg" alt="Mik Black runs a training session on Oxford Nanopore Sequencing" style="width:300px; height:350px; object-fit:cover;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Professor Michael Black (Mik Black, GA)</strong><br>
+      Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago's Department of Biochemistry, [Mik's research focus](https://www.otago.ac.nz/biochemistry/people/profile?id=352) leans towards cancer and human health.<br>
+      
+    </td>
+  </tr>
+</table>
 
-![Mik Black runs a training session on Oxford Nanopore Sequencing](team-photos/MikBlack.jpg){fig-align="left" width="60%"}
+</table>
+<div style="margin-bottom:30px;"></div>
+<table>
 
+<table>
+  <tr>
+    <td>
+      <img src="team-photos/ChloevanderBurg.png" alt="Dr Chloé van der Burg" style="width:300px; height:350px; object-fit:cover;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Bioinformatics Training Coordinator: Dr Chloé van der Burg, GA</strong><br>
+      Chloé joins GA from the University of Otago, where she previously worked as a postdoctoral researcher exploring the genetic and behavioural mechanisms driving protogynous sex change in the New Zealand Spotty wrasse. Her research background broadly encompasses exploring evolutionary and functional genomics, with a focus on genomic drivers of fundamental and unusual physiological mechanisms in invertebrates, such as tephritid fruit flies and sea anemones. Chloé completed her PhD and undergraduate studies at the Queensland University of Technology (Brisbane, Australia), before moving to Dunedin, New Zealand in 2022. She brings a strong expertise in genomics, transcriptomics and bioinformatics and a passion for teaching to her role as training coordinator.<br>
+    </td>
+  </tr>
+</table>
 
-### Bioinformatics Training Coordinator: Dr Chloé van der Burg, GA
+</table>
+<div style="margin-bottom:30px;"></div>
+<table>
 
-<div style="text-align: justify;">
-Chloé joins GA from the University of Otago, where she previously worked as a postdoctoral researcher exploring the genetic and behavioural mechanisms driving protogynous sex change in the New Zealand Spotty wrasse. Her research background broadly encompasses exploring evolutionary and functional genomics, with a focus on genomic drivers of fundamental and unusual physiological mechanisms in invertebrates, such as tephritid fruit flies and sea anemones. Chloé completed her PhD and undergraduate studies at the Queensland University of Technology (Brisbane, Australia), before moving to Dunedin, New Zealand in 2022. She brings a strong expertise in genomics, transcriptomics and bioinformatics and a passion for teaching to her role as training coordinator.
-</div>
-![Dr Chloé van der Burg](team-photos/ChloevanderBurg.png){fig-align="left" width="50%"}
+<table>
+  <tr>
+    <td>
+      <img src="team-photos/MattBix-cropped.png" alt="Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills." style="width:300px; height:350px; object-fit:cover;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Matt Bixley, REANNZ</strong><br>
+      Research Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt's skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago). 
 
+      Connect with Matt on [LinkedIn](https://www.linkedin.com/in/matt-bixley-01a047255/)<br>
+      
+    </td>
+  </tr>
+</table>
 
-
-### Matt Bixley, NeSI
-<div style="text-align: justify;">
-Research Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt's skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago). 
-
-Connect with Matt on [LinkedIn](https://www.linkedin.com/in/matt-bixley-01a047255/)
-</div>
-
-
-![Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills.](team-photos/MattBix.jpeg){fig-align="left" width="60%"}
-
+</table>
+<div style="margin-bottom:30px;"></div>
+<table>
 
 
 ## Past team members
@@ -68,7 +92,7 @@ Connect with Matt on [LinkedIn](https://www.linkedin.com/in/matt-bixley-01a04725
 <table>
   <tr>
     <td>
-      <img src="team-photos/NgoniAndDini.jpg" style="width:200px; height:250px; object-fit:cover;">
+      <img src="team-photos/NgoniAndDini.jpg" alt="Dini (right) and Ngoni (left)" style="width:200px; height:250px; object-fit:cover;">
     </td>
     <td style="padding-left:20px;text-align: justify;">
       <strong>Dinindu Senanayake, NeSI</strong><br>

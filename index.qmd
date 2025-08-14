@@ -1,12 +1,11 @@
 ---
 title: "Genomics Aotearoa and REANNZ: Bioinformatics Training Programme"
-image: assets/logos/GA-image-black-icon.gif
+image: assets/logos/GA-plus-REANNZ-wide-colour.png
 
 about:
   id: hero-heading
   template: solana
-  image: assets/logos/GA-image-black-icon.gif
-  image-width: 6em
+  image: assets/logos/GA-plus-REANNZ-wide-colour.png
 ---
 
 ## Overview of the Bioinformatics Training Programme
