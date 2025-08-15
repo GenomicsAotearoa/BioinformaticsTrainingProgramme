@@ -24,8 +24,6 @@ The training programme is part of the [Bioinformatics Capability Project](https:
 
 ## How does training work? How do I sign up? 
 
-Workshops are advertised through the [Genomics Aotearoa mailing list](https://www.genomics-aotearoa.org.nz/news-events/subscribe-our-updates). Advertising goes out usually 2 weeks before the workshop, with a brief description of the workshop, prerequisites (if applicable) and a link to register for the workshop. Workshops are held on zoom and participants will be sent a zoom link the day prior to the workshop. 
-
-All our workshops are designed to be hands-on, with live coding performed by both instructors and learners. 
+Workshops are advertised through the [Genomics Aotearoa mailing list](https://www.genomics-aotearoa.org.nz/news-events/subscribe-our-updates). Advertising goes out usually 2 weeks before the workshop, with a brief description of the workshop, prerequisites (if applicable) and a link to register for the workshop. Workshops are held on zoom and participants will be sent a zoom link the day prior to the workshop. All our workshops are designed to be hands-on, with live coding performed by both instructors and learners. See more info in our [Training Programme Overview](index.qmd).
 
 

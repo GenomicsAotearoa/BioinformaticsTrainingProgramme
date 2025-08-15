@@ -37,12 +37,27 @@ If you are doing, or will be doing, research in Aotearoa that requires bioinform
 Whether you are an absolute beginner who has not yet started any bioinformatics, or an experienced user looking to start quickly with a specialist method, we can help. Still have questions? [Contact us](ContactUs.qmd)
 
 
+## How do I sign up? 
+
+Workshops are advertised approximately two weeks in advance by email, which will contain a link to register to the workshop via Eventbrite. You can sign up for the training advertising emails through the [Genomics Aotearoa mailing list](https://www.genomics-aotearoa.org.nz/news-events/subscribe-our-updates).
 
 
 
-## Past Workshops
+
+## Past and future workshops
 
 ::: panel-tabset
+### Upcoming
+**August**  
+- Intermediate R, 27-28th Aug, 2025. ***Event full, join the waitlist [here](https://www.eventbrite.co.nz/e/intermediate-r-tickets-1514220657749?aff=oddtdtcreator)***
+
+**September**  
+- Tentative: Introduction to R; 10.09.25  
+- Tentative: Visualisation with ggplot2; 11.09.25  
+- Tentative: RNAseq Data Analysis; 17.09.25 - 18.09.25
+
+
+
 ### 2025
 
 

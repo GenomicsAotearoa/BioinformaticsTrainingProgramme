@@ -6,7 +6,7 @@ format:
 ---
 
 # Overview of workshops  
-### Core programme 
+### Core programme overview 
 
 **Beginner**  
 •	[Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/)  
@@ -20,20 +20,20 @@ format:
 
 **Specialised**  
 •	[Visualisation with ggplot2](https://genomicsaotearoa.github.io/visualization_day/)   
+• Reproducibility with git and quarto -- *Coming soon...*	
 
 
-### Ancillary programme
+### Ancillary programme overview
 
 **Other specialised workshops** *(some of these workshops are under development)*   
-•	[Reproducibility with git and quarto](tylermcinnes.github.io/reproducibility_block/)	
-•   [Single cell RNAseq](https://genomicsaotearoa.github.io/scRNA-seq-data-analysis/)  
-•	[Introduction to Nextflow](https://genomicsaotearoa.github.io/Nextflow_Workshop/)  
-•	[Microbial genomics short reads](https://genomicsaotearoa.github.io/microbial_genomics_short_reads/)  
-•	[Long read genome assembly](https://genomicsaotearoa.github.io/long-read-assembly-one-day/)   
-•	[Pangenome graphs](https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/)  
-•	[Outlier analysis](https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/)  
-•	[Gene regulatory network simulations](https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/)  
-•	[Introduction to Containers](https://genomicsaotearoa.github.io/intro-to-containers/)  
+• [Single-cell RNAseq Data Analysis](#single-cell-rna-seq-data-analysis)  
+•	[Reproducible Bioinformatics Workflows with Nextflow and nf-core](#reproducible-bioinformatics-with-nextflow-and-nf-core)  
+•	[Microbial genome assembly with short reads ](#microbial-genome-assembly-with-short-reads)  
+•	[Long read genome assembly](#long-read-genome-assembly)   
+•	[Constructing Pangenome Graphs](#constructing-pangenome-graphs)  
+•	[Outlier analysis](#outlier-analysis)  
+•	[Scaling gene regulatory network simulations](#scaling-gene-regulatory-networks-simulations)  
+•	[Introduction to Software Containers](#introduction-to-software-containers)  
 
 
 
@@ -127,8 +127,7 @@ Some of the topics covered in the workshop are:
 - An introduction to HPC.
 - Working with job scheduler.
 
-**Prerequisites**:  
-Comfortable using bash / shell at a beginner level (have completed [Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/) or have equivalent experience)
+**Prerequisites**: Comfortable using bash / shell at a beginner level (have completed [Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/) or have equivalent experience). Being comfortable with a genomic analysis pipeline at a beginner level (e.g., have completed [RNA-seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/) or similar workflow) will be useful but is not required. 
 
 We assume learners have familiarity with genomic concepts, but do not specifically need to be working on variant calling workflows to learn the basics of bash scripting and job scheduling in this workshop. 
 
@@ -153,8 +152,7 @@ This includes:
 - Automating file processing.  
 - Challenges: solve example molecular biology problems using shell scripts.  
 
-**Prerequisites:**  
-Comfortable using bash / shell at a beginner level (have completed [Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/) or have equivalent experience)
+**Prerequisites:** Comfortable using bash / shell at a beginner level (have completed [Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/) or have equivalent experience)
 
 View the full workshop material here:
 [Intermediate Shell for Bioinformatics](https://genomicsaotearoa.github.io/shell-for-bioinformatics/)
@@ -177,8 +175,7 @@ Some of the topics covered in the workshop are:
 - Iterations - for loops, and `map_*()` functions.  
 - The importance of data structure in R.  
 
-**Prerequisites:**  
-Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or have equivalent experience)
+**Prerequisites:** Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or have equivalent experience)
 
 
 View the full workshop material here:
@@ -186,11 +183,16 @@ View the full workshop material here:
 
 ---
 
-## Specialised
+## Specialised  
+
+*These workshops are designed to address specific concepts or teach specific workflows. Generally these workshops require some beginner knowledge of R or shell.*  
+
+
+---
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
   <h3> Visualisation with ggplot2</h3>
-  <img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="IntermediateR logo" style="width:150px; height:auto;">
+  <img src="assets/workshop-mainpage-image/ggplot2-logo.png" alt="ggplot2 logo" style="width:100px; height:auto;">
 </div>
 
 Visualisation is more than just the code used to make a plot.
@@ -199,20 +201,92 @@ The aim for this workshop is to showcase the full process of visualising data. T
 
 This workshop is split into four parts:
 
-- Basic ggplot format and showcase of what can be done.
+- Basic `ggplot2` format and showcase of what can be done.
 - Some data transformations and tidying, viz for exploratory analysis.
 - Group walkthrough of creating a visualization of example data.
 - Working on your own data: plan, transform data, visualize.  
 
 
-**Prerequisites:**
-Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or have equivalent experience). Some familiarity with `ggplot2` will be useful but not required. 
+**Prerequisites:** Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or have equivalent experience). Some familiarity with `ggplot2` will be useful but not required. 
 
 View the full workshop material here:
 [From Start to Finish: Visualizing Your Data](https://genomicsaotearoa.github.io/visualization_day/)
 
+---
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
+  <h3> *Coming soon: Reproducibility with git and quarto*</h3>
+  <img src="" alt="" style="width:100px; height:auto;">
+</div>
+
+Good research is about more than just doing the analysis, it's also about making your analysis reproducible, collaborative and easy to share with your supervisor, your colleagues or the wider scientific community. 
+
+This workshop will teach you how to:  
+- Use Git and GitHub to confidently host and manage your code  
+- Tell the story of your analysis with clear, self-contained Quarto documents  
+- Create polished HTML outputs with well-documented code and embedded results  
+- Share your work with the world by publishing it as a website via GitHub Pages
+
+**Prerequisites:** Comfortable using R / R Studio at a beginner/intermediate level (have at minimum completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or have equivalent experience). Learners must also have made a github account - [sign up here](https://github.com/).
+
+
+*Material coming soon...*
+
+---
 
 # Ancilliary programme
+*Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are usually scheduled based on expression of interest.*  
+
+### Single-cell RNA-seq data analysis
+
+[Workshop material](https://genomicsaotearoa.github.io/scRNA-seq-data-analysis/)
+
+---
+
+### Reproducible Bioinformatics with Nextflow and nf-core
+Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures. 
+
+In this workshop you will:
+
+- Be introduced to Nextflow and execute an example pipeline.
+- Be introduced to nf-core, an online repository of curated pipelines.
+- Learn how to configure and customise an existing nf-core pipeline.
+- Generate metrics and reports.
+
+View the full workshop material here:
+[Reproducible Bioinformatics Workflows with Nextflow and nf-core](https://genomicsaotearoa.github.io/Nextflow_Workshop/)
+
+---
+
+### Microbial genome assembly with short reads  
+
+[Workshop material](https://genomicsaotearoa.github.io/microbial_genomics_short_reads/)
+
+---
+
+### Long read genome assembly  
+
+[Workshop material](https://genomicsaotearoa.github.io/long-read-assembly-one-day/)
+
+---
+
+### Constructing Pangenome Graphs 
+How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping.
+This workshop will include:
+
+- An introduction to pangenome graphs.
+- Setup guide for using the tools and data in the workshop.
+- Overview of the PGGB toolkit.
+- Choosing parameters to construct a graph.
+- QC
+- Extracting variant data.
+- Mapping short reads against a pangenome graph.
+
+View the full workshop material here:
+[Unlock the Power of Pangenome Graphs](https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/)
+
+---
 
 ### Outlier Analysis
 Identify regions of the genome that are under forms of selection during a two-day workshop.
@@ -234,41 +308,6 @@ View the full workshop material here:
 
 ---
 
-
-
-### Reproducible Bioinformatics with Nextflow and nf-core
-Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures. 
-
-In this workshop you will:
-
-- Be introduced to Nextflow and execute an example pipeline.
-- Be introduced to nf-core, an online repository of curated pipelines.
-- Learn how to configure and customise an existing nf-core pipeline.
-- Generate metrics and reports.
-
-View the full workshop material here:
-[Reproducible Bioinformatics Workflows with Nextflow and nf-core](https://genomicsaotearoa.github.io/Nextflow_Workshop/)
-
----
-
-
-### Constructing Pangenome Graphs with PGGB
-How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping.
-This workshop will include:
-
-- An introduction to pangenome graphs.
-- Setup guide for using the tools and data in the workshop.
-- Overview of the PGGB toolkit.
-- Choosing parameters to construct a graph.
-- QC
-- Extracting variant data.
-- Mapping short reads against a pangenome graph.
-
-View the full workshop material here:
-[Unlock the Power of Pangenome Graphs](https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/)
-
----
-
 ### Scaling Gene Regulatory Networks Simulations
 Simulate gene regulatory networks using R and Julia.   
 This workshop will include:  
@@ -283,5 +322,11 @@ This workshop will include:
 
 View the full workshop material here:
 [Scaling Gene Regulatory Networks Simulations](https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/)
+
+---
+
+### Introduction to Software Containers  
+
+[Workshop material](https://genomicsaotearoa.github.io/intro-to-containers/)
 
 ---
