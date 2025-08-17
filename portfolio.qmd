@@ -4,8 +4,10 @@ format:
   html:
     body-classes: portfolio
 ---
+::: {style="text-align: center;"}
+# Overview of workshops 
+:::
 
-# Overview of workshops  
 ### Core programme overview 
 
 **Beginner**  
@@ -35,13 +37,22 @@ format:
 •	[Scaling gene regulatory network simulations](#scaling-gene-regulatory-networks-simulations)  
 •	[Introduction to Software Containers](#introduction-to-software-containers)  
 
-
+\
 
 *Got a workshop topic suggestion?* [Let us know!](ContactUs.qmd)
 
-# Core programme  
+\
+
+::: {style="text-align: center;"}
+# Core programme 
+:::
+
+\
+
+::: {style="text-align: center;"}
 ## Introductory level 
 *Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.*
+:::
 
 ---
 
@@ -108,10 +119,10 @@ View the full workshop material here:
 
 ---
 
-
+::: {style="text-align: center;"}
 ## Intermediate level
 *Our intermediate level workshops are designed to build on skills learned in our introductory level, to enable you to more efficiently analyse your data and streamline your workflow.* 
-
+:::
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
@@ -183,10 +194,11 @@ View the full workshop material here:
 
 ---
 
+::: {style="text-align: center;"}
 ## Specialised  
 
 *These workshops are designed to address specific concepts or teach specific workflows. Generally these workshops require some beginner knowledge of R or shell.*  
-
+:::
 
 ---
 
@@ -235,8 +247,15 @@ This workshop will teach you how to:
 
 ---
 
-# Ancilliary programme
+::: {style="text-align: center;"}
+# Ancilliary programme 
 *Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are usually scheduled based on expression of interest.*  
+:::
+
+\
+\
+
+---
 
 ### Single-cell RNA-seq data analysis
 
