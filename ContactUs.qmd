@@ -7,10 +7,10 @@ title: ""
 
 ### Training workshop related questions  
 
-**Bioinformatics training coordinator** | Chloe van der Burg  
+**Bioinformatics Training Coordinator** | Chloé van der Burg  
 [chloe.vanderburg@otago.ac.nz](mailto:chloe.vanderburg@otago.ac.nz)  
 
-**Software support services** | Matt Bixley  
+**Software Support Services** | Matt Bixley  
 [matt.bixley@reannz.co.nz](mailto:matt.bixley@reannz.co.nz)  
 
 **Research Communities Advisor and Training Lead** | Nisha Ghatak  
@@ -19,13 +19,13 @@ title: ""
 
 ### Genomics Aotearoa related questions  
 
-**General enquires**  
-[genomics.aotearoa@universityofotago.ac.nz](mailto:genomics.aotearoa@universityofotago.ac.nz)  
+**General enquiries**  
+[genomics.aotearoa@otago.ac.nz](mailto:genomics.aotearoa@otago.ac.nz)  
 
-**Co-director** | Mik Black  
+**Co-Director** | Mik Black  
 [mik.black@otago.ac.nz](mailto:mik.black@otago.ac.nz)  
 
-**Co-director** | Peter Dearden  
+**Co-Director** | Peter Dearden  
 [peter.dearden@otago.ac.nz](mailto:peter.dearden@otago.ac.nz)
 
 

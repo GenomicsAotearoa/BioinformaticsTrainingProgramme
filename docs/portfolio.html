@@ -289,26 +289,16 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
     <h2 id="toc-title">On this page</h2>
    
-  <ul>
+  <ul class="collapse">
   <li><a href="#overview-of-workshops" id="toc-overview-of-workshops" class="nav-link active" data-scroll-target="#overview-of-workshops">Overview of workshops</a></li>
-  <li><a href="#core-programme-overview" id="toc-core-programme-overview" class="nav-link" data-scroll-target="#core-programme-overview">Core programme overview</a></li>
-  <li><a href="#ancillary-programme-overview" id="toc-ancillary-programme-overview" class="nav-link" data-scroll-target="#ancillary-programme-overview">Ancillary programme overview</a></li>
   <li><a href="#core-programme" id="toc-core-programme" class="nav-link" data-scroll-target="#core-programme">Core programme</a></li>
   <li><a href="#introductory-level" id="toc-introductory-level" class="nav-link" data-scroll-target="#introductory-level">Introductory level</a></li>
   <li><a href="#intermediate-level" id="toc-intermediate-level" class="nav-link" data-scroll-target="#intermediate-level">Intermediate level</a></li>
   <li><a href="#specialised" id="toc-specialised" class="nav-link" data-scroll-target="#specialised">Specialised</a></li>
   <li><a href="#ancilliary-programme" id="toc-ancilliary-programme" class="nav-link" data-scroll-target="#ancilliary-programme">Ancilliary programme</a></li>
-  <li><a href="#single-cell-rna-seq-data-analysis" id="toc-single-cell-rna-seq-data-analysis" class="nav-link" data-scroll-target="#single-cell-rna-seq-data-analysis">Single-cell RNA-seq data analysis</a></li>
-  <li><a href="#reproducible-bioinformatics-with-nextflow-and-nf-core" id="toc-reproducible-bioinformatics-with-nextflow-and-nf-core" class="nav-link" data-scroll-target="#reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</a></li>
-  <li><a href="#microbial-genome-assembly-with-short-reads" id="toc-microbial-genome-assembly-with-short-reads" class="nav-link" data-scroll-target="#microbial-genome-assembly-with-short-reads">Microbial genome assembly with short reads</a></li>
-  <li><a href="#long-read-genome-assembly" id="toc-long-read-genome-assembly" class="nav-link" data-scroll-target="#long-read-genome-assembly">Long read genome assembly</a></li>
-  <li><a href="#constructing-pangenome-graphs" id="toc-constructing-pangenome-graphs" class="nav-link" data-scroll-target="#constructing-pangenome-graphs">Constructing Pangenome Graphs</a></li>
-  <li><a href="#outlier-analysis" id="toc-outlier-analysis" class="nav-link" data-scroll-target="#outlier-analysis">Outlier Analysis</a></li>
-  <li><a href="#scaling-gene-regulatory-networks-simulations" id="toc-scaling-gene-regulatory-networks-simulations" class="nav-link" data-scroll-target="#scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</a></li>
-  <li><a href="#introduction-to-software-containers" id="toc-introduction-to-software-containers" class="nav-link" data-scroll-target="#introduction-to-software-containers">Introduction to Software Containers</a></li>
   </ul>
 </nav>
     </div>
@@ -325,20 +315,21 @@ ul.task-list li input[type="checkbox"] {
 <section id="core-programme-overview" class="level3">
 <h3 class="anchored" data-anchor-id="core-programme-overview">Core programme overview</h3>
 <p><strong>Beginner</strong><br>
-• <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a><br>
-• <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a><br>
-• <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a></p>
+• <a href="#introduction-to-shell">Introduction to Shell</a><br>
+• <a href="#introduction-to-the-r-programming-language">Introduction to R</a><br>
+• <a href="#rna-seq-data-analysis">RNA-seq Data Analysis</a></p>
 <p><strong>Intermediate</strong><br>
-• <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to bash scripting and HPC job scheduler</a><br>
-• <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate shell</a><br>
-• <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a></p>
+• <a href="#intermediate-shell-for-bioinformatics">Intermediate Shell</a><br>
+• <a href="#intermediate-r">Intermediate R</a><br>
+• <a href="#introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to bash scripting and HPC job scheduler</a></p>
 <p><strong>Specialised</strong><br>
-• <a href="https://genomicsaotearoa.github.io/visualization_day/">Visualisation with ggplot2</a><br>
+• <a href="#visualisation-with-ggplot2">Visualisation with ggplot2</a><br>
 • Reproducibility with git and quarto – <em>Coming soon…</em></p>
 </section>
 <section id="ancillary-programme-overview" class="level3">
 <h3 class="anchored" data-anchor-id="ancillary-programme-overview">Ancillary programme overview</h3>
-<p><strong>Other specialised workshops</strong> <em>(some of these workshops are under development)</em><br>
+<p><strong>Other specialised workshops</strong><br>
+(<em>Some of these workshops are under development</em>)<br>
 • <a href="#single-cell-rna-seq-data-analysis">Single-cell RNAseq Data Analysis</a><br>
 • <a href="#reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics Workflows with Nextflow and nf-core</a><br>
 • <a href="#microbial-genome-assembly-with-short-reads">Microbial genome assembly with short reads</a><br>
@@ -349,9 +340,14 @@ ul.task-list li input[type="checkbox"] {
 • <a href="#introduction-to-software-containers">Introduction to Software Containers</a></p>
 <p><br>
 </p>
-<p><em>Got a workshop topic suggestion?</em> <a href="./ContactUs.html">Let us know!</a></p>
+<section id="got-a-workshop-topic-suggestion-let-us-know" class="level4">
+<h4 class="anchored" data-anchor-id="got-a-workshop-topic-suggestion-let-us-know"><em>Got a workshop topic suggestion?</em> <a href="./ContactUs.html">Let us know!</a></h4>
 <p><br>
+<img src="assets/logos/GA-Logo-Training-black.png" class="img-fluid" style="width:70.0%"></p>
+<p><br>
+<br>
 </p>
+</section>
 </section>
 <section id="core-programme" class="level1" style="text-align: center;">
 <h1>Core programme</h1>
@@ -363,30 +359,10 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.</em></p>
 </section>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Introduction to the R Programming Language
-</h3>
-<p><img src="assets/workshop-mainpage-image/Rlogo-colour.jpeg" alt="R logo" style="width:150px; height:auto;"></p>
-</div>
-<p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop and intermediate R workshops. Some of the topics covered in the workshop are:</p>
-<ul>
-<li>An introduction to R and RStudio.</li>
-<li>R basics: The R language, reading data into R, storing data as objects.</li>
-<li>R packages.</li>
-<li>Publication-quality data presentation using <code>ggplot2</code>.</li>
-<li>Where to get more help when you are ready to do more.</li>
-</ul>
-<p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to the R Programming Language</a></p>
-<hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Introduction to Shell
-</h3>
-<p><img src="assets/workshop-mainpage-image/introtoshell.png" alt="welcome to shell" style="width:150px; height:auto;"></p>
-</div>
-<p>Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI)</p>
+<section id="introduction-to-shell" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="introduction-to-shell">Introduction to Shell</h3>
+<p><img src="assets/workshop-mainpage-image/introtoshell.png" alt="Welcome to Shell" class="workshop-image"></p>
+<p>Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI).</p>
 <p>During this workshop you will learn:</p>
 <ul>
 <li>The importance of the shell.</li>
@@ -394,16 +370,36 @@ Introduction to Shell
 <li>How to create, view and modify files.</li>
 <li>Pipes, redirection, and scripts, which will allow you to automate your workflow.</li>
 </ul>
-<p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a></p>
+<p><strong>Prerequisites:</strong> We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Introduction-to-shell/">Introduction to Shell</a></p>
+</section>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-RNA-seq Data Analysis
-</h3>
-<p><img src="assets/workshop-mainpage-image/mainRNA_image.png" alt="RNAimage" style="width:150px; height:auto;"></p>
-</div>
-<p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes. Some of the topics covered in the workshop are:</p>
+<section id="introduction-to-the-r-programming-language" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="introduction-to-the-r-programming-language">Introduction to the R Programming Language</h3>
+<p><img src="assets/workshop-mainpage-image/Rlogo-colour.jpeg" alt="R logo" class="workshop-image"></p>
+<p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables.<br>
+Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop and intermediate R workshops.<br>
+Some of the topics covered in the workshop are:</p>
+<ul>
+<li>An introduction to R and RStudio.</li>
+<li>R basics: The R language, reading data into R, storing data as objects.</li>
+<li>R packages.</li>
+<li>Publication-quality data presentation using <code>ggplot2</code>.</li>
+<li>Where to get more help when you are ready to do more.</li>
+</ul>
+<p><strong>Prerequisites:</strong> We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to the R Programming Language</a></p>
+</section>
+<hr>
+<section id="rna-seq-data-analysis" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="rna-seq-data-analysis">RNA-seq Data Analysis</h3>
+<p><img src="assets/workshop-mainpage-image/mainRNA_image.png" alt="RNA image" class="workshop-image"></p>
+<p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes.<br>
+Some of the topics covered in the workshop are:</p>
 <ul>
 <li>Quality assessment</li>
 <li>Trimming and filtering</li>
@@ -411,38 +407,23 @@ RNA-seq Data Analysis
 <li>Differential expression analysis</li>
 <li>Over-representation analysis</li>
 </ul>
-<p>We assume the learner has familiarity with basic transcriptomic and biological concepts, in particular that they know what a FASTA/FASTQ file is and what sequencing libraries are. No prior experience in analysing RNA-seq data is required.</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a></p>
-<hr>
+<p><strong>Prerequisites:</strong> We assume the learner has familiarity with basic transcriptomic and biological concepts, in particular that they know what a FASTA/FASTQ file is and what sequencing libraries are. No prior experience in analysing RNA-seq data is required.</p>
+<p><strong>Format:</strong> Taught over two half days (9am - 1pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a></p>
+</section>
+<p><br>
+</p>
 <section id="intermediate-level" class="level2" style="text-align: center;">
 <h2 class="anchored" data-anchor-id="intermediate-level">Intermediate level</h2>
 <p><em>Our intermediate level workshops are designed to build on skills learned in our introductory level, to enable you to more efficiently analyse your data and streamline your workflow.</em></p>
 </section>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Introduction to Bash Scripting and HPC Job Scheduler
-</h3>
-<p><img src="assets/workshop-mainpage-image/slurm_llinux_penguin_dna.png" alt="slurm penguin" style="width:150px; height:auto;"></p>
-</div>
-<p>Write your own bash scripts for data analysis and working on an HPC (high performance computing) environment. Some of the topics covered in the workshop are:</p>
-<ul>
-<li>Designing a variant calling workflow.</li>
-<li>Automating a workflow.</li>
-<li>An introduction to HPC.</li>
-<li>Working with job scheduler.</li>
-</ul>
-<p><strong>Prerequisites</strong>: Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience). Being comfortable with a genomic analysis pipeline at a beginner level (e.g., have completed <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a> or similar workflow) will be useful but is not required.</p>
-<p>We assume learners have familiarity with genomic concepts, but do not specifically need to be working on variant calling workflows to learn the basics of bash scripting and job scheduling in this workshop.</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to Bash Scripting and HPC Scheduler</a></p>
-<hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Intermediate Shell for Bioinformatics
-</h3>
-<p><img src="assets/workshop-mainpage-image/new_unix_tuxlogo.png" alt="slurm penguin" style="width:150px; height:auto;"></p>
-</div>
-<p>Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing. This includes:</p>
+<section id="intermediate-shell-for-bioinformatics" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</h3>
+<p><img src="assets/workshop-mainpage-image/new_unix_tuxlogo.png" alt="Intermediate Shell" class="workshop-image"></p>
+<p>Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing.<br>
+This includes:</p>
 <ul>
 <li>An overview of the Shell, UNIX and Linux.<br>
 </li>
@@ -456,16 +437,17 @@ Intermediate Shell for Bioinformatics
 </li>
 <li>Challenges: solve example molecular biology problems using shell scripts.</li>
 </ul>
-<p><strong>Prerequisites:</strong> Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience)</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate Shell for Bioinformatics</a></p>
+<p><strong>Prerequisites:</strong> Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience).</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate Shell for Bioinformatics</a></p>
+</section>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Intermediate R
-</h3>
-<p><img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="IntermediateR logo" style="width:150px; height:auto;"></p>
-</div>
-<p>Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code. Some of the topics covered in the workshop are:</p>
+<section id="intermediate-r" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="intermediate-r">Intermediate R</h3>
+<p><img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="Intermediate R logo" class="workshop-image"></p>
+<p>Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code.<br>
+Some of the topics covered in the workshop are:</p>
 <ul>
 <li>Introduction to relational data and the join function.<br>
 </li>
@@ -480,137 +462,288 @@ Intermediate R
 <li>The importance of data structure in R.</li>
 </ul>
 <p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or have equivalent experience)</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a></p>
+<p><strong>Format:</strong> Taught over two half days (9am - 1pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a></p>
+</section>
 <hr>
+<section id="introduction-to-bash-scripting-and-hpc-job-scheduler" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</h3>
+<p><img src="assets/workshop-mainpage-image/slurm_llinux_penguin_dna.png" alt="slurm penguin" class="workshop-image"></p>
+<p>Write your own bash scripts for data analysis and working on an HPC (high performance computing) environment.<br>
+Some of the topics covered in the workshop are:</p>
+<ul>
+<li>Designing a variant calling workflow.</li>
+<li>Automating a workflow.</li>
+<li>An introduction to HPC.</li>
+<li>Working with job scheduler.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Comfortable using bash / shell at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/introduction-to-shell/">Introduction to Shell</a> or have equivalent experience). Being comfortable with a genomic analysis pipeline at a beginner level (e.g., have completed <a href="https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/">RNA-seq Data Analysis</a> or similar workflow) will be useful but is not required.</p>
+<p>We assume learners have familiarity with genomic concepts, but do not specifically need to be working on variant calling workflows to learn the basics of bash scripting and job scheduling in this workshop.</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to Bash Scripting and HPC Scheduler</a></p>
+</section>
+<hr>
+<p><br>
+</p>
 <section id="specialised" class="level2" style="text-align: center;">
 <h2 class="anchored" data-anchor-id="specialised">Specialised</h2>
 <p><em>These workshops are designed to address specific concepts or teach specific workflows. Generally these workshops require some beginner knowledge of R or shell.</em></p>
 </section>
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-Visualisation with ggplot2
-</h3>
-<p><img src="assets/workshop-mainpage-image/ggplot2-logo.png" alt="ggplot2 logo" style="width:100px; height:auto;"></p>
-</div>
-<p>Visualisation is more than just the code used to make a plot.</p>
-<p>The aim for this workshop is to showcase the full process of visualising data. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.</p>
-<p>This workshop is split into four parts:</p>
+<section id="visualisation-with-ggplot2" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="visualisation-with-ggplot2">Visualisation with ggplot2</h3>
+<p><img src="assets/workshop-mainpage-image/ggplot2-logo.png" alt="ggplot2 logo" class="workshop-image"></p>
+<p>Visualisation is more than just the code used to make a plot.<br>
+The aim for this workshop is to showcase the full process of visualising data. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.<br>
+&nbsp;<br>
+This workshop is split into four parts:</p>
 <ul>
-<li>Basic <code>ggplot2</code> format and showcase of what can be done.</li>
-<li>Some data transformations and tidying, viz for exploratory analysis.</li>
-<li>Group walkthrough of creating a visualization of example data.</li>
+<li>Basic <code>ggplot2</code> format and showcase of what can be done.<br>
+</li>
+<li>Some data transformations and tidying, viz for exploratory analysis.<br>
+</li>
+<li>Group walkthrough of creating a visualization of example data.<br>
+</li>
 <li>Working on your own data: plan, transform data, visualize.</li>
 </ul>
 <p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner level (have completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or have equivalent experience). Some familiarity with <code>ggplot2</code> will be useful but not required.</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/visualization_day/">From Start to Finish: Visualizing Your Data</a></p>
-<hr>
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
-<h3 class="anchored">
-<em>Coming soon: Reproducibility with git and quarto</em>
-</h3>
-<p><img src="" alt="" style="width:100px; height:auto;"></p>
-</div>
-<p>Good research is about more than just doing the analysis, it’s also about making your analysis reproducible, collaborative and easy to share with your supervisor, your colleagues or the wider scientific community.</p>
-<p>This workshop will teach you how to:<br>
-- Use Git and GitHub to confidently host and manage your code<br>
-- Tell the story of your analysis with clear, self-contained Quarto documents<br>
-- Create polished HTML outputs with well-documented code and embedded results<br>
-- Share your work with the world by publishing it as a website via GitHub Pages</p>
-<p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner/intermediate level (have at minimum completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or have equivalent experience). Learners must also have made a github account - <a href="https://github.com/">sign up here</a>.</p>
-<p><em>Material coming soon…</em></p>
-<hr>
-<section id="ancilliary-programme" class="level1" style="text-align: center;">
-<h1>Ancilliary programme</h1>
-<p><em>Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are usually scheduled based on expression of interest.</em></p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/visualization_day/">From Start to Finish: Visualizing Your Data</a></p>
 </section>
+<hr>
+<section id="coming-soon-reproducibility-with-git-and-quarto" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="coming-soon-reproducibility-with-git-and-quarto"><em>Coming soon: Reproducibility with Git and Quarto</em></h3>
+<p><img src="" alt="" class="workshop-image"></p>
+<p>Good research is about more than just doing the analysis; it’s also about making your analysis reproducible, collaborative, and easy to share with your supervisor, your colleagues, or the wider scientific community.</p>
+<p>This workshop will teach you how to:</p>
+<ul>
+<li>Use Git and GitHub to confidently host and manage your code.<br>
+</li>
+<li>Tell the story of your analysis with clear, self-contained Quarto documents.<br>
+</li>
+<li>Create polished HTML outputs with well-documented code and embedded results.<br>
+</li>
+<li>Share your work with the world by publishing it as a website via GitHub Pages.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner/intermediate level (have at minimum completed <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to R</a> or equivalent experience). Learners must also have made a GitHub account - <a href="https://github.com/">sign up here</a>.</p>
+<p><strong>Format:</strong> Taught over two half days (9am - 1pm).<br>
+&nbsp;<br>
+<em>Material coming soon…</em></p>
+</section>
+<hr>
 <p><br>
 <br>
 </p>
-<hr>
-<section id="single-cell-rna-seq-data-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="single-cell-rna-seq-data-analysis">Single-cell RNA-seq data analysis</h3>
-<p><a href="https://genomicsaotearoa.github.io/scRNA-seq-data-analysis/">Workshop material</a></p>
-<hr>
+<section id="ancilliary-programme" class="level1" style="text-align: center;">
+<h1>Ancilliary programme</h1>
+<p><em>Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are typically scheduled based on expression of interest.</em></p>
 </section>
-<section id="reproducible-bioinformatics-with-nextflow-and-nf-core" class="level3">
-<h3 class="anchored" data-anchor-id="reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</h3>
-<p>Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures.</p>
-<p>In this workshop you will:</p>
+<p><br>
+</p>
+<hr>
+<section id="single-cell-rna-seq-data-analysis" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="single-cell-rna-seq-data-analysis">Single-cell RNA-seq data analysis</h3>
+<p><img src="assets/workshop-mainpage-image/scRNASeq.png" alt="Single-cell RNA-seq" class="workshop-image"></p>
+<p>Learn the skills and tools required for the analysis of single-cell RNA-seq data (scRNA-seq data) in R.<br>
+&nbsp;<br>
+This workshop covers:</p>
 <ul>
-<li>Be introduced to Nextflow and execute an example pipeline.</li>
-<li>Be introduced to nf-core, an online repository of curated pipelines.</li>
-<li>Learn how to configure and customise an existing nf-core pipeline.</li>
+<li>Alignment and feature counting with Cell Ranger (briefly).<br>
+</li>
+<li>QC and exploratory analysis.<br>
+</li>
+<li>Normalisation.<br>
+</li>
+<li>Sctransform: Variant Stabilising transformation.<br>
+</li>
+<li>Feature selection and dimensionality reduction.<br>
+</li>
+<li>Batch correction and data set integration.<br>
+</li>
+<li>Clustering.<br>
+</li>
+<li>Identification of cluster marker genes.<br>
+</li>
+<li>Differential gene expression analysis.<br>
+</li>
+<li>Differential abundance.</li>
+</ul>
+<p><strong>Prerequisites:</strong> This is an advanced workshop which requires an intermediate level of R knowledge and experience. To participate, you must have completed <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R</a> or have equivalent experience.</p>
+<p><strong>Format:</strong> Taught over 4 half days (9am – 1pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/scRNA-seq-data-analysis/">Analysis of single-cell RNA-seq data</a></p>
+</section>
+<hr>
+<section id="reproducible-bioinformatics-with-nextflow-and-nf-core" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</h3>
+<p><img src="assets/workshop-mainpage-image/nextflow_logo.png" alt="Nextflow nf-core" class="workshop-image"></p>
+<p>Reproducible research is of the utmost importance. Nextflow is workflow management software that enables writing scalable and reproducible scientific workflows. It integrates software packages and environment management systems from environment modules to Docker, Singularity, and Conda.<br>
+&nbsp;<br>
+In this workshop you will:</p>
+<ul>
+<li>Be introduced to Nextflow and execute an example pipeline.<br>
+</li>
+<li>Be introduced to nf-core, an online repository of curated pipelines.<br>
+</li>
+<li>Learn how to configure and customise an existing nf-core pipeline.<br>
+</li>
 <li>Generate metrics and reports.</li>
 </ul>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Nextflow_Workshop/">Reproducible Bioinformatics Workflows with Nextflow and nf-core</a></p>
-<hr>
+<p><strong>Prerequisites:</strong> Comfortable using command line / shell at a beginner-intermediate level.</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Nextflow_Workshop/">Reproducible Bioinformatics Workflows with Nextflow and nf-core</a></p>
 </section>
-<section id="microbial-genome-assembly-with-short-reads" class="level3">
-<h3 class="anchored" data-anchor-id="microbial-genome-assembly-with-short-reads">Microbial genome assembly with short reads</h3>
-<p><a href="https://genomicsaotearoa.github.io/microbial_genomics_short_reads/">Workshop material</a></p>
 <hr>
-</section>
-<section id="long-read-genome-assembly" class="level3">
-<h3 class="anchored" data-anchor-id="long-read-genome-assembly">Long read genome assembly</h3>
-<p><a href="https://genomicsaotearoa.github.io/long-read-assembly-one-day/">Workshop material</a></p>
-<hr>
-</section>
-<section id="constructing-pangenome-graphs" class="level3">
-<h3 class="anchored" data-anchor-id="constructing-pangenome-graphs">Constructing Pangenome Graphs</h3>
-<p>How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping. This workshop will include:</p>
+<section id="microbial-genome-assembly-with-short-reads" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="microbial-genome-assembly-with-short-reads">Microbial genome assembly with short reads</h3>
+<p><img src="assets/workshop-mainpage-image/microbialGenomeAssembly.png" alt="Microbial genome assembly" class="workshop-image"></p>
+<p>This workshop aims to provide a comprehensive understanding of microbial genome assembly using short-read sequencing data.<br>
+&nbsp;<br>
+This workshop will cover:</p>
 <ul>
-<li>An introduction to pangenome graphs.</li>
-<li>Setup guide for using the tools and data in the workshop.</li>
-<li>Overview of the PGGB toolkit.</li>
-<li>Choosing parameters to construct a graph.</li>
-<li>QC</li>
-<li>Extracting variant data.</li>
-<li>Mapping short reads against a pangenome graph.</li>
+<li>The principles of microbial genome assembly using short sequencing reads.<br>
+</li>
+<li>Differences between <em>de novo</em> and reference-guided assembly approaches.<br>
+</li>
+<li>Hands-on walkthrough of a genome assembly workflow.<br>
+</li>
+<li>Key considerations such as sequencing read length, depth, and contamination.<br>
+</li>
+<li>Genome annotation and visualisation techniques.<br>
+</li>
+<li>Practical examples using <em>Microcoleus</em> cyanobacterial sequencing data.</li>
 </ul>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/">Unlock the Power of Pangenome Graphs</a></p>
-<hr>
+<p><strong>Prerequisites:</strong> Some familiarity with the command line and basic R. Comfortable with: navigating files, using Slurm/HPC, command-line tools, and basic R.</p>
+<p><strong>Format:</strong> Taught over two half days (9am - 1pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/microbial_genomics_short_reads/">Microbial Genome Assembly with Short Reads</a></p>
 </section>
-<section id="outlier-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h3>
-<p>Identify regions of the genome that are under forms of selection during a two-day workshop. During this workshop you will:</p>
+<hr>
+<section id="long-read-genome-assembly" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="long-read-genome-assembly">Long read genome assembly</h3>
+<p><img src="assets/workshop-mainpage-image/double_helix_mirror.png" alt="Long read genome assembly" class="workshop-image"></p>
+<p>This long read assembly workshop works through an entire genome assembly workflow including data QC, assembly, and assembly QC.<br>
+&nbsp;<br>
+Some of the topics covered:</p>
 <ul>
-<li>Download example genomic data (or prepare your own).</li>
-<li>Use the PCAdapt tool to identify outlier loci within a genome.</li>
-<li>Use VCFtools to identify outlier SNPS in population comparisons.</li>
-<li>Use Bayescan to identify outlier SNPS based on allele frequencies.</li>
-<li>Relate identified SNPS to phenotypic variation.</li>
-<li>Compare the results of the different methods and discuss the results.</li>
+<li>Sequence data basics: HiFi and UltraLong read data specifics<br>
+</li>
+<li>Quality Control (QC) of the data: cleaning, read length filtering. Overview of phasing.<br>
+</li>
+<li>Assembly of a genome: Verkko and Hifiasm, comparison of approaches.<br>
+</li>
+<li>Assembly QC: biological and technical assessments of the three Cs (contiguity, correctness, completeness).<br>
+</li>
+<li>Contiguity using gfastats<br>
+</li>
+<li>Correctness using Merqury<br>
+</li>
+<li>Completeness using asmgene<br>
+</li>
+<li>Assembly cleanup and genome annotation: contamination checks, Liftoff, MashMap, Minimap2.<br>
+</li>
+<li>Phased assemblies: benefits and examples.</li>
 </ul>
-<p>The focus of this workshop is on identifying signals of selection in an example genome using the outlier analysis method. Outlier analysis assumes that the majority of the genome is under neutral selection and some loci will appear as outliers relative to this background.</p>
-<p>This lesson assumes learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of selection. You are expected to have some familiarity with both the R programming language and with basic command line (bash).</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/">Outlier Analysis</a></p>
-<hr>
+<p><strong>Prerequisites:</strong> Introductory knowledge of bash / command line (e.g., completed Introduction to Shell).</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/long-read-assembly-one-day/">Long read assembly</a></p>
 </section>
-<section id="scaling-gene-regulatory-networks-simulations" class="level3">
-<h3 class="anchored" data-anchor-id="scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</h3>
+<hr>
+<section id="constructing-pangenome-graphs" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="constructing-pangenome-graphs">Constructing Pangenome Graphs</h3>
+<p><img src="assets/workshop-mainpage-image/PanGenomegraphs_theme_figure130NM2D_20230703_small.png" alt="Pangenome graphs" class="workshop-image"></p>
+<p>How to construct a pangenome graph using PGGB, including QC, variant extraction, and short-read mapping.<br>
+&nbsp;<br>
+This workshop will include:</p>
+<ul>
+<li>Introduction to pangenome graphs.<br>
+</li>
+<li>Setup guide for using the tools and data.<br>
+</li>
+<li>Overview of the PGGB toolkit.<br>
+</li>
+<li>Choosing parameters to construct a graph.<br>
+</li>
+<li>QC, extracting variant data, mapping short reads.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Familiarity with Shell. Able to navigate files/directories, use full vs relative paths, and use a command-line text editor.</p>
+<p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/">Unlock the Power of Pangenome Graphs</a></p>
+</section>
+<hr>
+<section id="outlier-analysis" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h3>
+<p><img src="assets/workshop-mainpage-image/OutlierAnalysis.png" alt="Outlier analysis" class="workshop-image"></p>
+<p>Identify genomic regions under selection using the outlier analysis method.<br>
+&nbsp;<br>
+During this workshop:</p>
+<ul>
+<li>Download example genomic data or prepare your own.<br>
+</li>
+<li>Use PCAdapt to identify outlier loci.<br>
+</li>
+<li>Use VCFtools to identify outlier SNPs in population comparisons.<br>
+</li>
+<li>Use Bayescan to identify outlier SNPs based on allele frequencies.<br>
+</li>
+<li>Relate identified SNPs to phenotypic variation.<br>
+</li>
+<li>Compare results of different methods and discuss findings.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Familiarity with R and basic command line. Some knowledge of genomic concepts and selection.</p>
+<p><strong>Format:</strong> Taught over two full days (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/">Outlier Analysis</a></p>
+</section>
+<hr>
+<section id="scaling-gene-regulatory-networks-simulations" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</h3>
+<p><img src="assets/workshop-mainpage-image/sismonr_logo.png" alt="Gene regulatory networks" class="workshop-image"></p>
 <p>Simulate gene regulatory networks using R and Julia.<br>
-This workshop will include:<br>
-- Why simulations are valuable in systems biology,<br>
-- What regulatory networks are and how they can be modelled,<br>
-- How to use the sismonr R package to simulate a small regulatory network, and<br>
-- Introduction to High performance computing (HPC)<br>
-- HPC architectures<br>
-- Batch systems and using a Slurm scheduler<br>
-- HPC architectures<br>
-- How to scale up simulations on a HPC through profiling and optimisation</p>
-<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/">Scaling Gene Regulatory Networks Simulations</a></p>
-<hr>
+&nbsp;<br>
+This workshop will include:</p>
+<ul>
+<li>Why simulations are valuable in systems biology.<br>
+</li>
+<li>What regulatory networks are and how to model them.<br>
+</li>
+<li>Using the sismonr R package to simulate a small network.<br>
+</li>
+<li>Introduction to HPC: architectures, batch systems, and Slurm.<br>
+</li>
+<li>How to scale up simulations on HPC via profiling and optimisation.</li>
+</ul>
+<p><strong>Prerequisites:</strong> Familiarity with bash and R; some HPC knowledge preferred. Basic molecular biology knowledge helpful.</p>
+<p><strong>Format:</strong> Taught over two full days (10am - 4pm).<br>
+&nbsp;<br>
+<strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/">Scaling Gene Regulatory Networks Simulations</a></p>
 </section>
-<section id="introduction-to-software-containers" class="level3">
-<h3 class="anchored" data-anchor-id="introduction-to-software-containers">Introduction to Software Containers</h3>
-<p><a href="https://genomicsaotearoa.github.io/intro-to-containers/">Workshop material</a></p>
+<hr>
+<section id="introduction-to-software-containers" class="level3 workshop-header workshop-block">
+<h3 class="workshop-header anchored" data-anchor-id="introduction-to-software-containers">Introduction to Software Containers</h3>
+<p><img src="assets/workshop-mainpage-image/apptainer-primary.png" alt="Software containers" class="workshop-image"></p>
+<p>This workshop introduces Apptainer, showing how to run a simple container and build your own, including running parallel scientific workloads on HPC clusters.</p>
+<p><strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/intro-to-containers/">Introduction to Software Containers</a></p>
+</section>
 <hr>
 
 
-</section>
 
 </main> <!-- /main -->
+<div class="bottom-banner">
+  <div class="banner-left">
+    <img src="assets/logos/GA-Logo-TrainingProgramme-white.png" alt="GA traininglogo" class="banner-logo" style="height:45px; width:auto;">
+  </div>
+  <div class="banner-right">
+    Made with <span class="heart">♥</span> and Quarto
+  </div>
+</div>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

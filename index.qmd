@@ -1,12 +1,27 @@
 ---
 title: "Genomics Aotearoa and REANNZ: Bioinformatics Training Programme"
-image: assets/logos/GA-plus-REANNZ-wide-colour.png
+image: assets/logos/GA-REANNZ-wide-colour.png
 
 about:
   id: hero-heading
   template: solana
-  image: assets/logos/GA-plus-REANNZ-wide-colour.png
+  image: assets/logos/GA-REANNZ-wide-colour.png
 ---
+
+
+::: {.callout-note}
+## UPCOMING WORKSHOPS
+**August 2025**  
+- Intermediate R, 27-28th Aug, 2025.   
+&nbsp;&nbsp;***Event full, join the waitlist [here](https://www.eventbrite.co.nz/e/intermediate-r-tickets-1514220657749?aff=oddtdtcreator)***
+
+**September 2025**  
+- Tentative: Introduction to R; 10.09.25  
+- Tentative: Visualisation with ggplot2; 11.09.25  
+- Tentative: RNAseq Data Analysis; 17.09.25 - 18.09.25
+:::
+
+\
 
 ## Overview of the Bioinformatics Training Programme
 
@@ -16,17 +31,17 @@ Training is offered through a portfolio of free, interactive workshops instructe
 
 We work closely with our partners at REANNZ ([Research and Education Advanced Network New Zealand](https://www.reannz.co.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
-Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 94 workshops reaching more than 1,800 participants.
+Since it's inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,000 participants.
 
 ## Workshop structure, style and expectation
 
 Our training workshops are interactive live-coding events. One or more instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
 
-Our workshops run with the help of REANNZ. Our partnership with REANNZ ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser. 
+Our workshops run with the help of REANNZ, using the Open OnDemand web portal. Our partnership with REANNZ ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser. 
 
 All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available - visit our [Workshop Portfolio](portfolio.qmd) page.
 
-Workshops are either in person or online (zoom), and are usually across one (10am - 4pm) or two days (9am - 1pm). Our core program workshops are run multiple times through the year. Our ancillary program is run based on demand / expression of interest.   
+Workshops are either in person or online (zoom), and are typically run across one day (10am - 4pm) or two days (9am - 1pm). Our core program workshops are run multiple times through the year. Our ancillary program is run based on demand or expression of interest.   
 
 All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
 
@@ -44,20 +59,9 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 
 
-## Past and future workshops
+## Past workshops
 
 ::: panel-tabset
-### Upcoming
-**August**  
-- Intermediate R, 27-28th Aug, 2025. ***Event full, join the waitlist [here](https://www.eventbrite.co.nz/e/intermediate-r-tickets-1514220657749?aff=oddtdtcreator)***
-
-**September**  
-- Tentative: Introduction to R; 10.09.25  
-- Tentative: Visualisation with ggplot2; 11.09.25  
-- Tentative: RNAseq Data Analysis; 17.09.25 - 18.09.25
-
-
-
 ### 2025
 
 
@@ -89,7 +93,38 @@ Workshops are advertised approximately two weeks in advance by email, which will
 - Introduction to Shell (04.02.2025)  
 
 ### 2024
+**November**  
+- Otago Bioinformatics Spring School (18–22.11.2024)  
+
+**October**  
+- Introduction to R (22.10.2024)  
+- RNA-seq workshop (15–16.10.2024)  
+- RNA-seq workshop (8–9.10.2024)  
+
+**September**  
+- Metagenomics Summer School (3–6.09.2024)  
+
+**August**  
+- INDIGIDATA - Coding - Intro to Shell (27.08.2024)  
+- Introduction to Bash and HPC Job Scheduler (21.08.2024)  
+- Intermediate shell for Bioinformatics (07.08.2024)  
+
+**July**  
+- Introduction to shell (31.07.2024)  
+- Intermediate R (24.07.2024)  
+- Introduction to R (17.07.2024)  
+
+**June**  
+- Long-read assembly (12.06.2024)  
+- Reproducible Bioinformatics Workflows with Nextflow and nf-core (05.06.2024)  
+
+**May**  
+- RNA-seq workshop (22.05.2024)  
+- singleCell-RNASeq (08, 09, 15, 16.05.2024)  
+- Introduction to Containers + Nextflow developer (02.05.2024)  
+
 **April**  
+- Introduction to R (24.04.2024)   
 - Intermediate Shell for Bioinformatics (16.04.2024)  
 - Intermediate R for Data Analysis (10.04.2024)  
 
@@ -105,13 +140,172 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ### 2023
 
 **November**  
-- Intermediate R for Bioinformatics (09.11.2023)  
+- Otago Bioinformatics Spring School (27.11–01.12.2023)  
+- NextFlow - GA Annual Meeting (20.11.2023)  
+- Intermediate R (09.11.2023)  
 
 **October**  
-- Reproducible Bioinformatics with Nextflow and nf-core (11.10.2023)  
+- Reproducible Bioinformatics Workflows with Nextflow and nf-core (11–12.10.2023)  
 
 **September**  
-- Intermediate Shell for Bioinformatics (27.09.2023)  
-:::
+- Intermediate shell for Bioinformatics (27.09.2023)  
+- Intermediate R (21.09.2023)  
+- Metagenomics Summer School (5–8.09.2023)  
+- INDIGIDATA - Coding - Intro to Shell (22.08.2023)  
+
+**August**  
+- MPI PHEL_HTS: 2023 Level_1 series (14–15.08.2023)  
+- Outlier Analysis (09.08.2023)  
+- Introduction to Bash and HPC Job Scheduler (02.08.2023)  
+- Constructing PanGenome Graphs (26.07.2023)  
+- Intermediate shell for Bioinformatics (18.07.2023)  
+- Imputation Workshop (07.07.2023)  
+- Long-read assembly (4–6.07.2023)  
+
+**June**  
+- RNA-seq workshop (15.06.2023)  
+- Introduction to R (14.06.2023)  
+
+**May**  
+- Introduction to R (18.05.2023)  
+- Outlier Analysis (10–11.05.2023)  
+
+**April**  
+- Introduction to Bash and HPC Job Scheduler (13.04.2023)  
+
+**March**  
+- RNA-seq workshop (22.03.2023)  
+- Introduction to R (14.03.2023)  
+- Genomics Data Carpentry (08–09.03.2023) 
+
+### 2022
+
+**December**  
+- Metagenomics Summer School (29.11–02.12.2022)  
+
+**November**  
+- Otago Bioinformatics Spring School (21–25.11.2022)  
+
+**November**  
+- RNA-seq workshop (01.11.2022)  
+
+**October**  
+- R for Genomics (25.10.2022)  
+
+**September**  
+- Scaling Gene Regulatory Networks Simulations (21–22.09.2022)  
+- Intermediate-Advanced shell for Bioinformatics (15.09.2022)  
+
+**May**  
+- Data Carpentry (R for Genomics) (27.05.2022)  
+- Snakemake workshop (12.05.2022)  
+- RNA-seq workshop (10.05.2022)  
+
+**April**  
+- Data Carpentry (R for Genomics) (13.04.2022)  
+- Introduction to Bash and HPC Job Scheduler (12.04.2022)  
+
+**March**  
+- Genomics Data Carpentry (29–30.03.2022)  
+- Data Carpentry (R for Genomics) (09.03.2022)  
+- Introduction to Bash and HPC Job Scheduler (08.03.2022)  
+
+**February**  
+- RNA-seq workshop (24.02.2022)  
+- Data Carpentry (R for Genomics) (23.02.2022)  
+
+**January**  
+- Genomics Data Carpentry (26–27.01.2022)  
 
 
+### 2021
+
+**December**  
+- Scaling Gene Regulatory Networks Simulations (01–02.12.2021)  
+
+**November**  
+- Otago Bioinformatics Spring School (22–26.11.2021)  
+
+**October**  
+- Data Carpentry (R for Genomics) (19.10.2021)  
+
+**September**  
+- Genomics Data Carpentry (21–22.09.2021)  
+- RNA-seq workshop (08.09.2021)  
+- Data Carpentry (R for Genomics) (25.08.2021)  
+- Imputation Workshop (11.08.2021)  
+- Genomics Data Carpentry (27–28.07.2021)  
+- PHEL_HTS - Session 3.1 (23.07.2021)  
+- PHEL_ETS (01.07.2021)  
+- eDNA (24–25.06.2021)  
+- PHEL_HTS - Session 2 (23.06.2021)  
+- PHEL_HTS - Session 1 (03.06.2021)  
+- Genomics Data Analysis (RNA-Seq + Intro to R + GDC Variant Calling) (27–28.05.2021)  
+- RNA-seq workshop (18–19.05.2021)  
+- GA Post (29–30.04.2021)  
+- RNA-seq workshop (09.04.2021)  
+- Hi-C workshop (25–26.03.2021)  
+- Genomics Data Carpentry (16–17.03.2021)  
+
+
+### 2020
+
+**November**  
+- Otago Bioinformatics Spring School (23–27.11.2020)  
+- Metagenomics Summer School (17–20.11.2020)  
+
+**October**  
+- RNA-seq workshop (30.10.2020)  
+
+**September**  
+- Imputation Workshop (28.09.2020)  
+- RNA-seq workshop (03.09.2020)  
+
+**August**  
+- Genomics Data Carpentry (26–27.08.2020)  
+- GA4GH API demo (04.08.2020)  
+- RNA-seq workshop (30.07.2020)  
+
+**June**  
+- RNA-seq workshop (25.06.2020)  
+
+**May**  
+- Genomics Data Carpentry (12–13.05.2020)  
+
+**April**  
+- Genomics Data Carpentry (15–16.04.2020)  
+- Genomics Data Carpentry (31.03–01.04.2020)  
+
+**March**  
+- Genomics Data Carpentry (04–05.03.2020)  
+
+**January**  
+- Genomics Data Carpentry (28–29.01.2020)  
+
+
+### 2019
+
+**December**  
+- Metagenomics Summer School (10–13.12.2019)  
+
+**November**  
+- Genomics Data Carpentry (21–22.11.2019)  
+
+**October**  
+- Genomics Data Carpentry (10–11.10.2019)  
+
+**September**  
+- Genomics Data Carpentry (19–20.09.2019)  
+
+**August**  
+- Genomics Data Carpentry (21–22.08.2019)  
+- GA-NeSI: Best Practises (09.08.2019)  
+- Genomics Data Carpentry (01–02.08.2019)  
+
+**July**  
+- Genomics Data Carpentry (04–05.07.2019)  
+
+**June**  
+- Introduction to NeSI/HPC - Bioinformatics (21.06.2019)  
+- Genotyping by Sequencing workshop: GBS/RAD (11–12.06.2019)  
+::: 

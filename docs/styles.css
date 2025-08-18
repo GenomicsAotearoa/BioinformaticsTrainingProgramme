@@ -10,6 +10,8 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/* Headings -portfolio */
+
 .portfolio h1 {
   color: #333333; /* dark grey */
   font-weight: bold;
@@ -20,8 +22,36 @@ body {
   font-weight: bold;
 }
 
+/* Headings - portfolio */
+.workshop-block {
+  display: block;           /* ensures block layout */
+  margin-bottom: 1.5rem;    /* spacing before HR */
+}
+
+.workshop-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.workshop-image {
+  max-width: 120px;
+  height: auto;
+}
 
 
+
+/* Headings - all */
+
+h1.underline, h2.underline, h3.underline,
+h4.underline, h5.underline, h6.underline {
+  text-decoration: underline;
+}
+
+
+/* Heading margins - all */
 h1 {
   margin-top: 60px;
   margin-bottom: 40px;
@@ -46,3 +76,45 @@ h4 {
   margin-bottom: 4rem; /* Adjust the space as needed */
 }
 
+
+
+/* Bottom banner container */
+.bottom-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2c3e50;  /* or your brand color */
+  color: white;
+  padding: 8px 20px;
+  font-size: 0.9em;
+  z-index: 1000;
+}
+
+/* Logo image on the left */
+.banner-logo {
+  height: 30px;   /* adjust size */
+  width: auto;
+}
+
+/* Right-hand text */
+.banner-right {
+  font-style: italic;
+}
+
+/* Cute heart */
+.heart {
+  color: #e74c3c;
+  font-size: 1.1em;
+}
+
+
+/* Behaviour */
+
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+  text-align: inherit;
+  margin-left: 0;
+}

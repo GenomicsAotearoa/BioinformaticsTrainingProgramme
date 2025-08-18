@@ -18,23 +18,6 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/MikBlack.jpg" alt="Mik Black runs a training session on Oxford Nanopore Sequencing" style="width:300px; height:350px; object-fit:cover;">
-    </td>
-    <td style="padding-left:20px; text-align: justify;">
-      <strong>Professor Michael Black (Mik Black, GA)</strong><br>
-      Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago's Department of Biochemistry, [Mik's research focus](https://www.otago.ac.nz/biochemistry/people/profile?id=352) leans towards cancer and human health.<br>
-      
-    </td>
-  </tr>
-</table>
-
-</table>
-<div style="margin-bottom:30px;"></div>
-<table>
-
-<table>
-  <tr>
-    <td>
       <img src="team-photos/ChloevanderBurg.png" alt="Dr Chloé van der Burg" style="width:300px; height:350px; object-fit:cover;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
@@ -44,9 +27,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
   </tr>
 </table>
 
-</table>
-<div style="margin-bottom:30px;"></div>
-<table>
+\
 
 <table>
   <tr>
@@ -63,10 +44,22 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
   </tr>
 </table>
 
-</table>
-<div style="margin-bottom:30px;"></div>
-<table>
+\
 
+<table>
+  <tr>
+    <td>
+      <img src="team-photos/MikBlack.jpg" alt="Mik Black runs a training session on Oxford Nanopore Sequencing" style="width:300px; height:350px; object-fit:cover;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Professor Michael Black (Mik Black, GA)</strong><br>
+      Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago's Department of Biochemistry, [Mik's research focus](https://www.otago.ac.nz/biochemistry/people/profile?id=352) leans towards cancer and human health.<br>
+      
+    </td>
+  </tr>
+</table>
+
+\
 
 ## Past team members
 
@@ -121,6 +114,22 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
   </tr>
 </table>
 
+</table>
+<div style="margin-bottom:30px;"></div>
+<table>
+
+<table>
+  <tr>
+    <td>
+      <img src="team-photos/NgoniAndDini.jpg" alt="Dini (right) and Ngoni (left)" style="width:200px; height:250px; object-fit:cover;">
+    </td>
+    <td style="padding-left:20px;text-align: justify;">
+      <strong>Bioinformatics Training Coordinator: Ngoni Faya, GA</strong><br>
+      <br>
+    <span style="color:grey;"> Ngoni Faya (left, yellow top)</span>
+</td>
+  </tr>
+</table>
 
 
 
