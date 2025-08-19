@@ -12,8 +12,7 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 **August 2025**  
-- Intermediate R, 27-28th Aug, 2025.   
-&nbsp;&nbsp;***Event full, join the waitlist [here](https://www.eventbrite.co.nz/e/intermediate-r-tickets-1514220657749?aff=oddtdtcreator)***
+- Intermediate R, 27-28th Aug, 2025. ***EVENT FULL.***
 
 **September 2025**  
 - Tentative: Introduction to R; 10.09.25  
