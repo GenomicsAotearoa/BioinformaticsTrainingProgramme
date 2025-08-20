@@ -15,9 +15,9 @@ about:
 - Intermediate R, 27-28th Aug, 2025. ***EVENT FULL.***
 
 **September 2025**  
-- Tentative: Introduction to R; 10.09.25  
-- Tentative: Visualisation with ggplot2; 11.09.25  
-- Tentative: RNAseq Data Analysis; 17.09.25 - 18.09.25
+- Introduction to R; 10.09.25. **[Registration link available soon]**  
+- Visualisation with ggplot2; 11.09.25. **[Registration link available soon]**       
+- RNAseq Data Analysis; 17.09.25 - 18.09.25.     
 :::
 
 \
