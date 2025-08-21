@@ -79,7 +79,7 @@ During this workshop you will learn:
 
 **Format:** Taught over one day (10am - 4pm).  
 &nbsp;  
-**View the full workshop material here:** [Introduction to Shell](https://genomicsaotearoa.github.io/Introduction-to-shell/)
+**View the full workshop material here:** [Introduction to Shell](https://genomicsaotearoa.github.io/introduction-to-shell/) 
 
 :::
 
