@@ -125,7 +125,7 @@ Some of the topics covered in the workshop are:
 - Differential expression analysis
 - Over-representation analysis
 
-**Prerequisites:** We assume the learner has familiarity with basic transcriptomic and biological concepts, in particular that they know what a FASTA/FASTQ file is and what sequencing libraries are. No prior experience in analysing RNA-seq data is required.
+**Prerequisites:** This is a beginner-friendly workshop and no prior experience in analysing RNA-seq data is required. However, we assume the learner has familiarity with basic transcriptomic and biological concepts, in particular that they know what sequencing libraries are and have some familiarity with the data format (i.e, know what a FASTA/FASTQ file is). **Familiarity with beginner-level R and bash is also assumed.**  If you would like a refresher on R, see [Introduction to R](#introduction-to-the-r-programming-language). If you would like a refresher on bash, see [Introduction to Shell](#introduction-to-shell).
 
 **Format:** Taught over two half days (9am - 1pm).  
 &nbsp;  
