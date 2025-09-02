@@ -128,7 +128,9 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
     </td>
     <td style="padding-left:20px;text-align: justify;">
       <strong>Bioinformatics Training Coordinator: Ngoni Faya, GA</strong><br>
-      <br>
+      Ngoni joined GA in 2019 after completing his PhD in Genetics at Massey University. With expertise in RNA-seq analysis, he led and collaborated with GA postdocs and principal investigators to deliver specialized genomics data analysis training workshops. He is proud to have been among the first globally to run the Genomics Data Carpentry workshop, and above all helping NZ researchers build essential data analysis skills. Ngoni later left GA in 2022 to pursue his passion for clinical genetics, and he now serves as a Medical Director at Knight Diagnostic Laboratories and Assistant Professor of Molecular and Medical Genetics at Oregon Health & Science University in USA.  
+
+    Connect with Ngoni on [LinkedIn](https://www.linkedin.com/in/ngoni-faya/).<br>
 </td>
   </tr>
 </table>

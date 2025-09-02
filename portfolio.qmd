@@ -23,13 +23,12 @@ format:
 
 **Specialised**  
 •	[Visualisation with ggplot2](#visualisation-with-ggplot2)   
-• Reproducibility with git and quarto -- *Coming soon...*	
+• [Reproducibility with git and quarto](#coming-soon-reproducibility-with-git-and-quarto) -- *Full material coming soon...*	
 
 
 ### Ancillary programme overview
 
 **Other specialised workshops**   
-(*Some of these workshops are under development*)   
 • [Single-cell RNAseq Data Analysis](#single-cell-rna-seq-data-analysis)  
 •	[Reproducible Bioinformatics Workflows with Nextflow and nf-core](#reproducible-bioinformatics-with-nextflow-and-nf-core)  
 •	[Microbial genome assembly with short reads ](#microbial-genome-assembly-with-short-reads)  
@@ -273,8 +272,7 @@ This workshop will teach you how to:
 
 **Format:** Taught over two half days (9am - 1pm).  
 &nbsp;  
-*Material coming soon...*  
-
+*The Git part of this workshop is under construction, but the Quarto material is available here:* [Reproducibility with Git and Quarto](https://genomicsaotearoa.github.io/reproducibility_with_git_and_quarto/)  
 :::
 
 ---
@@ -284,12 +282,15 @@ This workshop will teach you how to:
 
 ::: {style="text-align: center;"}
 # Ancilliary programme  
-*Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are typically scheduled based on expression of interest.*  
-:::
-
-\
 
 ---
+
+*Our ancilliary programme are our highly specialised topics, generally at an intermediate to advanced level. These workshops are typically scheduled based on expression of interest and availability of topic-specialist instructors.*  
+:::
+
+---
+
+\
 
 ::: {.workshop-block}
 ### Single-cell RNA-seq data analysis {.workshop-header}
