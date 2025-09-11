@@ -12,13 +12,15 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 
-**September 2025**  
-- Introduction to R; 10.09.25. **EVENT FULL.**  
-- Visualisation with ggplot2; 11.09.25. **[Event full, join waitlist](https://www.eventbrite.co.nz/e/visualisation-with-ggplot2-tickets-1612872357639?aff=oddtdtcreator)**       
-- RNAseq Data Analysis; 17.09.25 - 18.09.25.  **[Registration link](https://www.eventbrite.co.nz/e/rna-seq-data-analysis-tickets-1618800769679?aff=oddtdtcreator)**  
+**September 2025**          
+- RNAseq Data Analysis; 17.09.25 - 18.09.25.  **EVENT FULL. **  
+
+**October 2025**  
+- TBC  
 
 **November 2025**    
-- Otago Bioinformatics Spring School; 17th-21st Nov.  [EOI open, see website](https://otagobioinformaticsspringschool.github.io/2025/)
+- Otago Bioinformatics Spring School; 17th-21st Nov.  
+**EOIs open until midnight 30th Sep;** [see website](https://otagobioinformaticsspringschool.github.io/2025/)
 :::
 
 \
@@ -31,7 +33,7 @@ Training is offered through a portfolio of free, interactive workshops instructe
 
 We work closely with our partners at REANNZ ([Research and Education Advanced Network New Zealand](https://www.reannz.co.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
-Since it's inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,000 participants.
+Since its inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,000 participants.
 
 ## Workshop structure, style and expectation
 
@@ -63,6 +65,11 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 ::: panel-tabset
 ### 2025
+
+**September**  
+- Visualisation with ggplot2 (11.09.2025)  
+- Introduction to R (10.09.2025)  
+
 **August**  
 - Intermediate R (27-28.08.2025) 
 
