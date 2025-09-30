@@ -13,12 +13,12 @@ about:
 ## UPCOMING WORKSHOPS
 
 **October 2025**  
-- Introduction to R (15.10.25). ***Registration link available soon.***  
+- Introduction to R (15.10.25). ***[Registration link here.](https://www.eventbrite.co.nz/e/introduction-to-r-tickets-1725586919929?aff=oddtdtcreator)***  
 - Reproducibility with git and quarto (22-23.10.25). ***Registration link available soon.*** 
 
 **November 2025**    
 - Otago Bioinformatics Spring School; 17th-21st Nov.  
-***EOIs open until midnight 30th Sep;*** [see website](https://otagobioinformaticsspringschool.github.io/2025/)
+**EOIs are now closed.** *[See website here.](https://otagobioinformaticsspringschool.github.io/2025/)*
 :::
 
 \
