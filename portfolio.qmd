@@ -263,14 +263,16 @@ Good research is about more than just doing the analysis; it's also about making
 
 This workshop will teach you how to:
 
-- Use Git and GitHub to confidently host and manage your code.  
+- Use Git and GitHub to confidently host and manage your own code, and collaborate with others.  
 - Tell the story of your analysis with clear, self-contained Quarto documents.  
 - Create polished HTML outputs with well-documented code and embedded results.  
 - Share your work with the world by publishing it as a website via GitHub Pages.
 
-**Prerequisites:** Comfortable using R / R Studio at a beginner/intermediate level (have at minimum completed [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) or equivalent experience). Learners must also have made a GitHub account - [sign up here](https://github.com/).
+**Prerequisites:** This is an intermediate level workshop. You must have attended our [Introduction to R workshop](#introduction-to-the-r-programming-language) and [Introduction to Shell workshop](#introduction-to-shell), or have equivalent experience. You should be comfortable navigating the file system on your own computer using commands such as `cd`, `pwd` and `ls` and be comfortable with basic R/RStudio syntax (*e.g.,* know what functions, objects and vectors are, and have used RStudio before).  
 
-**Format:** Taught over two half days (9am - 1pm).  
+**Set-up:** This workshop is run locally on your own computer. ***Before the workshop, you must install R, RStudio and Git, and make a GitHub account.*** The full [set-up instructions can be found here.]()
+
+**Format:** Taught over two half days (9am - 2:30pm).  
 &nbsp;  
 *The Git part of this workshop is under construction, but the Quarto material is available here:* [Reproducibility with Git and Quarto](https://genomicsaotearoa.github.io/reproducibility_with_git_and_quarto/)  
 :::
