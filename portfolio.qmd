@@ -272,7 +272,7 @@ This workshop will teach you how to:
 
 **Set-up:** This workshop is run locally on your own computer. ***Before the workshop, you must install R, RStudio and Git, and make a GitHub account.*** The full [set-up instructions can be found here.](https://genomicsaotearoa.github.io/reproducibility_with_git_and_quarto/git_overview.html#setup-on-local-machine)
 
-**Format:** Taught over two half days (9am - 2:30pm).  
+**Format:** Taught over two half days (9:30am - 2:30pm).  
 &nbsp;  
 **View the full workshop material here:** [Reproducibility with Git and Quarto](https://genomicsaotearoa.github.io/reproducibility_with_git_and_quarto/)  
 :::
