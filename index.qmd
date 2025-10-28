@@ -12,9 +12,6 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 
-**October 2025**  
-- Reproducibility with Git and Quarto (23-24.10.25). **Event full.** 
-
 **November 2025**    
 - Otago Bioinformatics Spring School; 17th-21st Nov. **[See website here.](https://otagobioinformaticsspringschool.github.io/2025/)**
 :::
@@ -63,7 +60,8 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ### 2025
 
 **October**  
-- Introduction to R (15.10.2025)    
+- Reproducibility with Git and Quarto (23-24.10.2025)     
+- Introduction to R (15.10.2025)  
 
 **September**  
 - RNAseq Data Analysis (17-18.09.2025)  
