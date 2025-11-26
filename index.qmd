@@ -12,12 +12,9 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 
-**November 2025**    
-- Otago Bioinformatics Spring School; 17th-21st Nov. **[See website here.](https://otagobioinformaticsspringschool.github.io/2025/)**
-
 **February 2026**  
-- [Introduction to shell](portfolio.qmd#introduction-to-shell) (18.02.2026)  
-- [Introduction to R](portfolio.qmd#introduction-to-the-r-programming-language) (25.02.2026)  
+- [Introduction to shell](portfolio.qmd#introduction-to-shell-for-bioinformatics) (18.02.2026)  
+- [Introduction to R](portfolio.qmd#introduction-to-r-for-bioinformatics) (25.02.2026)  
 :::
 
 \
@@ -62,6 +59,9 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 ::: panel-tabset
 ### 2025
+
+**November 2025**    
+- Otago Bioinformatics Spring School (17-21.11.2025)    
 
 **October**  
 - Reproducibility with Git and Quarto (23-24.10.2025)     
