@@ -11,13 +11,13 @@ format:
 ### Core programme overview 
 
 **Beginner**  
-•	[Introduction to Shell](#introduction-to-shell)  
-•	[Introduction to R](#introduction-to-the-r-programming-language)  
+•	[Introduction to Shell for bioinformatics](#introduction-to-shell-for-bioinformatics)  
+•	[Introduction to R for bioinformatics](#introduction-to-r-for-bioinformatics)  
 •	[RNA-seq Data Analysis](#rna-seq-data-analysis)       
 
 **Intermediate**  
-•	[Intermediate Shell](#intermediate-shell-for-bioinformatics)  
-•	[Intermediate R](#intermediate-r)  
+•	[Intermediate Shell for bioinformatics](#intermediate-shell-for-bioinformatics)  
+•	[Intermediate R for bioinformatics](#intermediate-r-for-bioinformatics)  
 •	[Introduction to Bash Scripting and HPC Job Scheduler](#introduction-to-bash-scripting-and-hpc-job-scheduler)  
   
 
@@ -61,7 +61,7 @@ format:
 ---
 
 ::: {.workshop-block}
-### Introduction to Shell {.workshop-header}
+### Introduction to Shell for bioinformatics {.workshop-header}
 
 <img src="assets/workshop-mainpage-image/introtoshell.png" alt="Welcome to Shell" class="workshop-image">
 
@@ -85,7 +85,7 @@ During this workshop you will learn:
 ---
 
 ::: {.workshop-block}
-### Introduction to the R Programming Language {.workshop-header}
+### Introduction to R for bioinformatics {.workshop-header}
 
 <img src="assets/workshop-mainpage-image/Rlogo-colour.jpeg" alt="R logo" class="workshop-image">
 
@@ -168,7 +168,7 @@ This includes:
 ---
 
 ::: {.workshop-block}
-### Intermediate R {.workshop-header}
+### Intermediate R for bioinformatics {.workshop-header}
 
 <img src="assets/workshop-mainpage-image/intermed-r-logo.png" alt="Intermediate R logo" class="workshop-image">
 
