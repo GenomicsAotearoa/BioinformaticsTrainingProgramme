@@ -13,7 +13,8 @@ format:
 **Beginner**  
 •	[Introduction to Shell for bioinformatics](#introduction-to-shell-for-bioinformatics)  
 •	[Introduction to R for bioinformatics](#introduction-to-r-for-bioinformatics)  
-•	[RNA-seq Data Analysis](#rna-seq-data-analysis)       
+•	[RNA-seq Data Analysis](#rna-seq-data-analysis)      
+•	Genomic Data Carpentry (Aotearoa edition) *coming soon*...
 
 **Intermediate**  
 •	[Intermediate Shell for bioinformatics](#intermediate-shell-for-bioinformatics)  
