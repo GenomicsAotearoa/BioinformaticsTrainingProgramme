@@ -13,8 +13,8 @@ about:
 ## UPCOMING WORKSHOPS
 
 **February 2026**  
-- [Introduction to shell](portfolio.qmd#introduction-to-shell-for-bioinformatics) (18.02.2026)  
-- [Introduction to R](portfolio.qmd#introduction-to-r-for-bioinformatics) (25.02.2026)  
+- [Introduction to shell](portfolio.qmd#introduction-to-shell-for-bioinformatics) (18.02.2026). [Registrations open](https://www.eventbrite.co.nz/e/introduction-to-shell-for-bioinformatics-tickets-1979677392372?aff=oddtdtcreator).   
+- [Introduction to R](portfolio.qmd#introduction-to-r-for-bioinformatics) (25.02.2026). Registrations open soon...  
 :::
 
 \
