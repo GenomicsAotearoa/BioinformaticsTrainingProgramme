@@ -13,7 +13,7 @@ about:
 ## UPCOMING WORKSHOPS
 
 **February 2026**   
-- [Introduction to R](portfolio.qmd#introduction-to-r-for-bioinformatics) (25.02.2026). Workshop full. [Join waitlist](https://www.eventbrite.co.nz/e/introduction-to-r-tickets-1979683120505?aff=oddtdtcreator).
+- [Introduction to R](portfolio.qmd#introduction-to-r-for-bioinformatics) (25.02.2026). Workshop and waitlist FULL.  
 
 **March 2026**   
 - [Visualisation with ggplot2](portfolio.qmd#visualisation-with-ggplot2) (11.03.2026).   
