@@ -61,7 +61,7 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ### 2026
 
 **February**  
-- Introduction to shell (18.02.2026) 
+- Introduction to shell (18.02.2026)  
 - Introduction to R (25.02.2026)  
 
 ### 2025
