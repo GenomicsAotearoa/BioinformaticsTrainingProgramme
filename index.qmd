@@ -12,9 +12,14 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 
-**March 2026**   
-- [Visualisation with ggplot2](portfolio.qmd#visualisation-with-ggplot2) (11.03.2026). [Register here.](https://www.eventbrite.co.nz/e/visualisation-with-ggplot2-tickets-1983583454509?aff=oddtdtcreator)   
-- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). 
+**March 2026**  
+ 
+- [Visualisation with ggplot2](portfolio.qmd#visualisation-with-ggplot2) (11.03.2026). [Workshop full; join waitlist.](https://www.eventbrite.co.nz/e/visualisation-with-ggplot2-tickets-1983583454509?aff=oddtdtcreator)   
+- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). *Registration opens soon...*
+
+**Other workshops**
+
+- [Version control with Git](https://swcarpentry.github.io/git-novice/) (17.03.2026; [Otago Carpentries workshop; register here](https://otagocarpentries.github.io/2026-03-17-nz-git/)).  
 :::
 
 \
