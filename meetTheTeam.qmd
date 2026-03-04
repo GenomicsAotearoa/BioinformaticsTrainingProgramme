@@ -37,7 +37,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
       <img src="team-photos/MattBix-cropped.png" alt="Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills." style="width:300px; height:350px; object-fit:cover;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
-      <strong>Dr Matt Bixley, REANNZ</strong><br>
+      <strong>Matt Bixley, REANNZ</strong><br>
       Research Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt's skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago). 
 
       Connect with Matt on [LinkedIn](https://www.linkedin.com/in/matt-bixley-01a047255/)<br>
