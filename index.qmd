@@ -15,7 +15,7 @@ about:
 **March 2026**  
  
 - [Visualisation with ggplot2](portfolio.qmd#visualisation-with-ggplot2) (11.03.2026). **Waitlist full.**   
-- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). *Registration opens soon...*
+- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). [Registration open.](https://www.eventbrite.co.nz/e/rna-seq-data-analysis-tickets-1984586764436?aff=oddtdtcreator)
 
 **Other workshops**
 
