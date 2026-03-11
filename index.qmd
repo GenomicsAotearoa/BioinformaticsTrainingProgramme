@@ -14,7 +14,6 @@ about:
 
 **March 2026**  
  
-- [Visualisation with ggplot2](portfolio.qmd#visualisation-with-ggplot2) (11.03.2026). **Waitlist full.**   
 - [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). [Registration open.](https://www.eventbrite.co.nz/e/rna-seq-data-analysis-tickets-1984586764436?aff=oddtdtcreator)
 
 **Other workshops**
@@ -32,15 +31,13 @@ Training is offered through a portfolio of free, interactive workshops instructe
 
 We work closely with our partners at REANNZ ([Research and Education Advanced Network New Zealand](https://www.reannz.co.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
-Since its inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,000 participants.
+Since its inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,400 participants.
 
 ## Workshop structure, style and expectation
 
 Our training workshops are interactive live-coding events. One or more instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
 
-Our workshops run with the help of REANNZ, using the Open OnDemand web portal. Our partnership with REANNZ ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser. 
-
-All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available - visit our [Workshop Portfolio](portfolio.qmd) page.
+All you will need to complete the workshop is a computer with an internet connection and a web browser. All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available - visit our [Workshop Portfolio](portfolio.qmd) page.
 
 Workshops are either in person or online (zoom), and are typically run across one day (10am - 4pm) or two days (9am - 1pm). Our core program workshops are run multiple times through the year. Our ancillary program is run based on demand or expression of interest.   
 
@@ -65,13 +62,16 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
+**March**  
+- Visualisation with ggplot2 (11.03.2026)   
+
 **February**  
 - Introduction to shell (18.02.2026)  
 - Introduction to R (25.02.2026)  
 
 ### 2025
 
-**November 2025**    
+**November**    
 - Otago Bioinformatics Spring School (17-21.11.2025)    
 
 **October**  
