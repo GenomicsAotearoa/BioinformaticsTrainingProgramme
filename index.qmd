@@ -14,11 +14,13 @@ about:
 
 **March 2026**  
  
-- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis) (25-26.03.2026). [Registrations full, join waitlist.](https://www.eventbrite.co.nz/e/rna-seq-data-analysis-tickets-1984586764436?aff=oddtdtcreator)
+- [RNA-seq Data Analysis](portfolio.qmd#rna-seq-data-analysis-----workflow-🧬-tier-1) (25-26.03.2026). [Registrations full, join waitlist.](https://www.eventbrite.co.nz/e/rna-seq-data-analysis-tickets-1984586764436?aff=oddtdtcreator)
 
 **Other workshops**
 
 - [Version control with Git](https://swcarpentry.github.io/git-novice/) (17.03.2026; [Otago Carpentries workshop; register here](https://otagocarpentries.github.io/2026-03-17-nz-git/)).  
+
+*See the [National Training Calendar](https://www.reannz.co.nz/products-and-services/training-and-consultancy/training/training-calendar) maintained by REANNZ for more training opportunities*
 :::
 
 \
@@ -39,7 +41,7 @@ Our training workshops are interactive live-coding events. One or more instructo
 
 All you will need to complete the workshop is a computer with an internet connection and a web browser. All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available - visit our [Workshop Portfolio](portfolio.qmd) page.
 
-Workshops are either in person or online (zoom), and are typically run across one day (10am - 4pm) or two days (9am - 1pm). Our core program workshops are run multiple times through the year. Our ancillary program is run based on demand or expression of interest.   
+Workshops are either in person or online (zoom), and are typically run across one day (10am - 4pm) or two days (9am - 1pm).   
 
 All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
 

@@ -28,7 +28,13 @@ body {
   margin-bottom: 1.5rem;    /* spacing before HR */
 }
 
-.workshop-header {
+
+.workshop-image {
+  max-width: 120px;
+  height: auto;
+}
+
+.workshop-header-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -36,12 +42,16 @@ body {
   gap: 1rem;
 }
 
-.workshop-image {
-  max-width: 120px;
-  height: auto;
+.workshop-header-row h4 {
+  margin: 0;
+  flex: 1;
 }
 
 
+.anchorjs-link {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
 
 /* Headings - all */
 
@@ -112,9 +122,3 @@ h4 {
 }
 
 
-/* Behaviour */
-
-h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
-  text-align: inherit;
-  margin-left: 0;
-}

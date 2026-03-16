@@ -4,7 +4,7 @@ title: ""
 
 ## Who are we?
 
-The training team includes members of both Genomics Aotearoa and REANNZ (Research and Education Advanced Network New Zealand), as well as Postdoctoral Fellows and early career researchers who volunteer their time. 
+The training team includes members of both Genomics Aotearoa and REANNZ (Research and Education Advanced Network New Zealand), as well as our team of GA Training Affiliates who volunteer their time.  
 
 All workshops are led by an **Instructor**: *subject matter experts who deliver high-level knowledge of the topic, demonstrating code in real-time*.
 
@@ -18,7 +18,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/ChloevanderBurg.png" alt="Dr Chloé van der Burg" style="width:300px; height:350px; object-fit:cover;">
+      <img src="team-photos/ChloevanderBurg.png" alt="Dr Chloé van der Burg" style="width:300px; height:350px; object-fit:cover; border-radius:30%;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
       <strong>Bioinformatics Training Coordinator: Dr Chloé van der Burg, GA</strong><br>
@@ -34,7 +34,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/MattBix-cropped.png" alt="Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills." style="width:300px; height:350px; object-fit:cover;">
+      <img src="team-photos/MattBix-cropped.png" alt="Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills." style="width:300px; height:350px; object-fit:cover; border-radius:30%;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
       <strong>Matt Bixley, REANNZ</strong><br>
@@ -51,7 +51,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/MikBlack.jpg" alt="Mik Black runs a training session on Oxford Nanopore Sequencing" style="width:300px; height:350px; object-fit:cover;">
+      <img src="team-photos/MikBlack.jpg" alt="Mik Black runs a training session on Oxford Nanopore Sequencing" style="width:300px; height:350px; object-fit:cover; border-radius:30%;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
       <strong>Professor Michael Black (Mik Black, GA)</strong><br>
@@ -63,13 +63,174 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 
 \
 
+## Training Affiliates
+
+Our ***Training Affiliates*** are early-mid career researchers and scientists who volunteer their time to help teach in our Bioinformatics Training Programme and have expertise across a range of genomic and bioinformatic disciplines. 
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/clare-square.png" alt="Dr Clare Adams" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Clare Adams, University of Otago</strong><br>
+      I am a Postdoctoral Fellow in Genetic Data Science at the University of Otago, currently working on applying quantitative genetic methods to predict metabolic disease. This work focuses on GBLUP statistical modelling, population-aware analyses, and reproducible, code-driven workflows in R, Unix, and high-performance computing environments. My research career has also spanned population genomics, environmental DNA (eDNA), and field-based ecology where my main interest was in developing eDNA methodology for population genetic usage. I value collaborative, transparent genomic methods that are ethically grounded and responsive to Aotearoa New Zealand’s unique biological and social context. 
+      
+      I’m always happy for a coffee chat, please feel free to reach out via [email](mailto:c.adams@otago.ac.nz) or [LinkedIn](https://www.linkedin.com/in/ciadams/).  <br>
+
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/Valter.jpg" alt="Dr Valter Almeida" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Valter Almeida, Massey University Tāwharau Ora - School of Veterinary Science (mEpiLab)</strong><br>
+      Dr Valter Almeida is a Research Officer at Massey University with expertise in bioinformatics, genomics, and gut microbiome metagenomics. He investigates gut microbiome diversity, zoonotic infectious diseases, and microbial transmission between humans, livestock, and wildlife using large-scale metagenomic datasets and high-performance computing.<br>
+
+      Connect with Valter via [email](mailto:V.Almeida@massey.ac.nz).
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/portraitAL.jpg" alt="Dr Alastair Lamont" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Alastair Lamont, University of Otago</strong><br>
+       Dr Alastair Lamont is a Postdoctoral Fellow with the Department of Mathematics and Statistics at the University of Otago. He is interested in applying statistical methodologies to improve prediction of human genetic traits, particularly in indigenous peoples. <br>
+
+      You can reach Alastair at [alastair.lamont@otago.ac.nz](mailto:alastair.lamont@otago.ac.nz)
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/Jieyun_photo.png" alt="Dr Jieyun Wu" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Jieyun Wu, Centre for eResearch (University of Auckland)</strong><br>
+      Jieyun is an eResearch Engagement Specialist at the Centre for eResearch, University of Auckland, where she supports researchers in adopting digital tools and computational practices. During her nearly five years at Auckland Genomics, Jieyun provided genomics sequencing and bioinformatics support to dozens of research groups across New Zealand universities and PROs, where she discovered her passion for data science and helping researchers build computational confidence. Prior to this, she worked as a Scientist at the Ministry for Primary Industries, developing eDNA-based biosecurity surveillance tools. Jieyun holds a PhD in environmental microbiology from the University of Auckland.
+      
+      Connect with Jieyun via [email](mailto:Jieyun.wu@auckland.ac.nz) or [LinkedIn](https://www.linkedin.com/in/jieyun-wu-36720170/) 
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/20230725_AmaliThrimawithana_CBO-2427_00059_Master.JPG" alt="Amali Thrimawithana" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Amali Thrimawithana, BSI and University of Auckland</strong><br>
+      Kia ora! I’m a senior bioinformatician at Bioeconomy Science Institute, with broad experience across genomics, transcriptomics, metagenomics, and comparative analyses, working with species ranging from microbes and insect to fish and plants. My current focus is on microbiomes and their interactions with taonga species such as mānuka and tamure, a topic I am currently investigating in my PhD (final year) with Bioeconomy Science Institute and the University of Auckland.
+      
+      I’d love to connect, so please reach out to me on [email](mailto:amali.thrimawithana@plantandfood.co.nz) or [Linkedln](https://www.linkedin.com/in/amali-thrimawithana-b7313835/) 
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/20251028-BenHalliday.jpg" alt="Blank image" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Ben Halliday, University of Otago </strong><br>
+      I am a Research Fellow in the Laboratory for Genomic Medicine at the University of Otago. My research focuses on applying genomic data in high-performance computing environments to help whānau affected by rare genetic diseases. This research spans genome sequence analysis, genome assembly, and pangenomics. 
+      
+      Feel free to reach out for a chat via [email](mailto:benjamin.halliday@otago.ac.nz)
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/blank-profile.png" alt="Blank image" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Murray Cadzow, University of Otago </strong><br>
+      Murray is a Research Software Engineer within eResearch Support, Digital Services at the University of Otago. Murray has a background in bioinformatics, primarily in human complex disease genetics. His speciality is helping researchers deal with scale and big data. Murray has been heavily involved with computational literacy, reproducibility, and bioinformatic training at Otago and nationally. Murray is certified both as a Carpentries Instructor, and Instructor Trainer.
+      
+      Contact Murray at [murray.cadzow@otago.ac.nz](mailto:murray.cadzow@otago.ac.nz)
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/IMG_4606_elijah.jpg" alt="Elijah Atta Manu" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Elijah Atta Manu, University of Otago </strong><br>
+      I am currently pursuing a PhD in Physiology at the University of Otago. My research is aimed at addressing the mechanisms that drive cancer progression, especially breast cancer, which is a major public health challenge here in New Zealand. My work combines bioinformatic analysis of breast cancer transcriptomes with a wide range of complementary wet‑lab techniques, including High Content Screening, immunofluorescence, western blotting, and RT‑qPCR.
+      
+      I am passionate about sharing knowledge and building capability in bioinformatics, and I’m always happy to support others in developing these skills. Feel free to contact me via my [otago email](mailto:attel530@student.otago.ac.nz), [personal email](mailto:elijahattamanu@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/eattamanu).
+ <br>
+    </td>
+  </tr>
+</table>
+
+
+\
+
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/blank-profile.png" alt="Blank image" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Sara Burgess, Massey University</strong><br>
+      Contact Sara at [S.Burgess1@massey.ac.nz](mailto:S.Burgess1@massey.ac.nz)
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
+
+
+
+  
+
+
 ## Past team members
 
 
 <table>
   <tr>
     <td>
-      <img src="team-photos/TylerMcInnes.jpg" alt="Tyler McInnes, training coordinator" style="width:200px; height:250px; object-fit:cover;">
+      <img src="team-photos/TylerMcInnes.jpg" alt="Tyler McInnes, training coordinator" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
     </td>
     <td style="padding-left:20px; text-align: justify;">
       <strong>Bioinformatics Training Coordinator: Dr Tyler McInnes, GA</strong><br>
@@ -87,7 +248,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/dini.jpeg" alt="Dini" style="width:200px; height:250px; object-fit:cover;">
+      <img src="team-photos/dini.jpeg" alt="Dini" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
     </td>
     <td style="padding-left:20px;text-align: justify;">
       <strong>Dinindu Senanayake, NeSI</strong><br>
@@ -106,7 +267,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/JianShengBoey.jpg" style="width:200px; height:250px; object-fit:cover;">
+      <img src="team-photos/JianShengBoey.jpg" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
     </td>
     <td style="padding-left:20px;text-align: justify;">
       <strong>Bioinformatics Training Coordinator: Dr Jian Sheng Boey, GA</strong><br>
@@ -124,7 +285,7 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 <table>
   <tr>
     <td>
-      <img src="team-photos/ngoni.jpg" alt="Ngoni" style="width:200px; height:250px; object-fit:cover;">
+      <img src="team-photos/ngoni.jpg" alt="Ngoni" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
     </td>
     <td style="padding-left:20px;text-align: justify;">
       <strong>Bioinformatics Training Coordinator: Ngoni Faya, GA</strong><br>
