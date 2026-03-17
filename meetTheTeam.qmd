@@ -210,7 +210,9 @@ Our ***Training Affiliates*** are early-mid career researchers and scientists wh
     </td>
     <td style="padding-left:20px; text-align: justify;">
       <strong>Dr Sara Burgess, Massey University</strong><br>
-      Contact Sara at [S.Burgess1@massey.ac.nz](mailto:S.Burgess1@massey.ac.nz)
+      Dr Sara Burgess is a Research Officer with the School of Veterinary Science at Massey University with expertise in short and long whole genome sequencing and metagenomics. Her research focuses on understanding how antimicrobial resistant bacteria are transmitted between humans, animals and the environment. She also loves creating data visuals in R using publicly available datasets from around the world. 
+      
+      You can follow her work on [LinkedIn.](https://www.linkedin.com/in/sara-burgess-85b32045/)
  <br>
     </td>
   </tr>
