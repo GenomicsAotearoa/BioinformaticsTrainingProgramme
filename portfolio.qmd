@@ -326,6 +326,7 @@ This workshop will include:
 
 :::
 
+\
 
 ## Bioinformatic Toolbox 🛠️
 *These workshops aim to provide you with the bioinformatic and computational skills to manipulate, manage and visualise your genomic data and are designed to complement our genomic analysis workflow programme.*  
@@ -451,15 +452,16 @@ Some of the topics covered in the workshop are:
 <img src="assets/workshop-mainpage-image/slurm_llinux_penguin_dna.png" alt="slurm penguin" class="workshop-image">
 :::
 
-Write your own bash scripts for data analysis and working on an HPC (high performance computing) environment.  
+Write your own bash scripts for data analysis and working on an HPC (high performance computing) environment to optimise and automate your genomic workflow. This workshop is an excellent follow-on for learners who have recently completed a tier 1 or tier 2 genomic analysis workflow.
+
 Some of the topics covered in the workshop are:
 
 - Designing a variant calling workflow.
-- Automating a workflow.
+- Automating a variant calling and RNAseq workflow.
 - An introduction to HPC.
 - Working with job scheduler.
 
-**Prerequisites:** Comfortable using bash / shell (have completed [Introduction to Shell](#intro-shell) or have equivalent experience). Comfortable with any beginner (*i.e.,* tier 1) genomic analysis workflow.  
+**Prerequisites:** Comfortable using bash / shell (have completed [Introduction to Shell](#intro-shell) or have equivalent experience). Familiarity with any beginner (*e.g.,* tier 1) or more advanced (*e.g.,* tier 2) genomic analysis workflow.   
 
 
 **Format:** Taught over one day (10am - 4pm).  
