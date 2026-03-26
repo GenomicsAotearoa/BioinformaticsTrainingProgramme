@@ -12,10 +12,6 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
 
-**March 2026**  
- 
-- [RNA-seq Data Analysis](portfolio.qmd#rnaseq) (25-26.03.2026). Workshop and waitlist full. 
-
 **April 2026**   
 
 - [Introduction to Bash scripting and HPC job scheduling](portfolio.qmd#bash-script-hpc-job) (23.04.2026). ***Registrations opening soon...***   
@@ -70,12 +66,14 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
-**March**  
+**March**   
+- RNA-seq Data Analysis (25-26.03.2026)  
 - Visualisation with ggplot2 (11.03.2026)   
 
 **February**  
-- Introduction to shell (18.02.2026)  
 - Introduction to R (25.02.2026)  
+- Introduction to shell (18.02.2026)  
+ 
 
 ### 2025
 
