@@ -14,11 +14,12 @@ about:
 
 **April 2026**   
 
-- [Introduction to Bash scripting and HPC job scheduling](portfolio.qmd#bash-script-hpc-job) (23.04.2026). ***Registrations opening soon...***   
+- [Introduction to Bash scripting and HPC job scheduling](portfolio.qmd#bash-script-hpc-job) (23.04.2026). [*Registrations opening soon...*](https://www.eventbrite.co.nz/e/introduction-to-bash-scripting-and-hpc-job-scheduler-tickets-1985546257305?aff=oddtdtcreator)  
 
 **May 2026**  
 
 - [Reproducibility with Git and Quarto](portfolio.qmd#git-and-quarto). (13-14.05.2026).  
+- Reproducible Bioinformatics with Nextflow and nf-core. (Late May, date TBC). 
 
 **Other workshops**
 
