@@ -14,7 +14,7 @@ about:
 
 **April 2026**   
 
-- [Introduction to Bash scripting and HPC job scheduling](portfolio.qmd#bash-script-hpc-job) (23.04.2026). [*Registrations open.*](https://www.eventbrite.co.nz/e/introduction-to-bash-scripting-and-hpc-job-scheduler-tickets-1985546257305?aff=oddtdtcreator)  
+- [Introduction to Bash scripting and HPC job scheduling](portfolio.qmd#bash-script-hpc-job) (23.04.2026). *Registrations closed.*
 
 **May 2026**  
 
