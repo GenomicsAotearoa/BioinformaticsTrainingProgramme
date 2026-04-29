@@ -15,7 +15,7 @@ about:
 
 **May 2026**  
 
-- [Reproducibility with Git and Quarto](portfolio.qmd#git-and-quarto). (13-14.05.2026).  
+- [Reproducibility with Git and Quarto](portfolio.qmd#git-and-quarto). (13-14.05.2026). [Register here.](https://www.eventbrite.co.nz/e/reproducibility-with-git-and-quarto-tickets-1988362178802?aff=oddtdtcreator)   
 - Reproducible Bioinformatics with Nextflow and nf-core. (Late May, date TBC). 
 
 **Other workshops**
