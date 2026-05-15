@@ -14,8 +14,7 @@ about:
 
 
 **May 2026**  
-
-- [Reproducibility with Git and Quarto](portfolio.qmd#git-and-quarto). (13-14.05.2026). *Workshop and waitlist full.*    
+ 
 - [Reproducible Bioinformatics with Nextflow and nf-core](portfolio.qmd#nextflow) (20.05.2026).  [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/reproducible-bioinformatics-with-nextflow-and-nf-core-tickets-1988604921853?aff=oddtdtcreator) 
 
 **June 2026**  
@@ -68,6 +67,9 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 ::: panel-tabset
 ### 2026
+
+**May**   
+- Reproducibility with Git and Quarto (13-14.05.2026)  
 
 **April**   
 - Introduction to Bash scripting and HPC job scheduling (23.04.2026)  
