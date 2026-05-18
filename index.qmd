@@ -15,7 +15,7 @@ about:
 
 **May 2026**  
  
-- [Reproducible Bioinformatics with Nextflow and nf-core](portfolio.qmd#nextflow) (20.05.2026).  [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/reproducible-bioinformatics-with-nextflow-and-nf-core-tickets-1988604921853?aff=oddtdtcreator) 
+- [Reproducible Bioinformatics with Nextflow and nf-core](portfolio.qmd#nextflow) (20.05.2026).  *Workshop full.*   
 
 **June 2026**  
 
