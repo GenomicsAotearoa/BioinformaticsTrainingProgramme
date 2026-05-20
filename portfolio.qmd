@@ -332,7 +332,7 @@ This workshop will include:
 
 - *Tier 1 workshops require some foundational knowledge of R or shell, but are generally beginner-friendly.*   
 - *Tier 2 workshops require you to be more comfortable using R and shell, and it is expected you have previously spent some time practising using these tools on your own datasets.*  
-- *Tier 3 workshops are more advanced and require you to be comfortable with both high performance computational skills and genomic analysis pipelines.*
+- *Tier 3 workshops are more advanced and require you to be comfortable with shell, high performance computational skills and genomic analysis pipelines.*
 
 ---
 
@@ -479,7 +479,11 @@ Some of the topics covered in the workshop are:
 <img src="assets/workshop-mainpage-image/nextflow_logo.png" alt="Nextflow nf-core" class="workshop-image">
 :::
 \
-Reproducible research is of the utmost importance. Nextflow is workflow management software that enables writing scalable and reproducible scientific workflows. It integrates software packages and environment management systems from environment modules to Docker, Singularity, and Conda.  
+Reproducible research is of the utmost importance. Nextflow is a workflow engine for building complex, data-intensive pipelines. It runs the same pipeline unchanged on a laptop, an HPC cluster, or the cloud. Nextflow manages parallelisation, container integration, and checkpointing. Failed runs resume from the last successful step. The result is analyses that are reproducible, portable, and easy to share.
+
+nf-core is a community-curated collection of over 100 production-ready pipelines built on Nextflow. It covers genomics, transcriptomics, proteomics, and other domains. Every pipeline is peer-reviewed, continuously tested, and ships with its software dependencies bundled in. Researchers can run a best-practice analysis with a single command.
+
+Together, Nextflow and nf-core are the de facto standard for reproducible bioinformatics. This workshop equips participants with basic skills to run and customise Nextflow and nf-core pipelines.  
 &nbsp;  
 In this workshop you will:  
 
@@ -488,9 +492,9 @@ In this workshop you will:
 - Learn how to configure and customise an existing nf-core pipeline.  
 - Generate metrics and reports.  
 
-**Prerequisites:** Comfortable using bash / shell. Comfortable with any tier 1 or tier 2 genomic analysis workflow. Familiar with bash scripting and HPC job scheduling.    
+**Prerequisites:** Comfortable using bash / shell. Comfortable with any tier 1 or tier 2 genomic analysis workflow. Familiarity with HPC job scheduling and Git/GitHub will be useful but not required.      
 
-**Format:** Taught over one day (10am - 4pm).  
+**Format:** Taught over one day (9:30 am - 1:00 pm).  
 &nbsp;  
 **View the full workshop material here:** [Reproducible Bioinformatics Workflows with Nextflow and nf-core](https://genomicsaotearoa.github.io/Nextflow_Workshop/)
 
