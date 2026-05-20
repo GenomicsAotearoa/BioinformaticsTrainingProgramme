@@ -11,15 +11,11 @@ about:
 
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
-
-
-**May 2026**  
  
-- [Reproducible Bioinformatics with Nextflow and nf-core](portfolio.qmd#nextflow) (20.05.2026).  *Workshop full.*   
 
 **June 2026**  
 
-- [Introduction to Shell](portfolio.qmd#intro-shell) (3-4.06.2026). *Registrations opening soon...*  
+- [Introduction to Shell](portfolio.qmd#intro-shell) (3-4.06.2026). [*Registrations open.*](https://www.eventbrite.co.nz/e/introduction-to-shell-for-bioinformatics-tickets-1988966236555?aff=oddtdtcreator)    
 - [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  
 
 **Other workshops**
@@ -68,7 +64,8 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
-**May**   
+**May**    
+- Reproducible Bioinformatics with Nextflow and nf-core (20.05.2026).  
 - Reproducibility with Git and Quarto (13-14.05.2026)  
 
 **April**   
