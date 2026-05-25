@@ -21,7 +21,7 @@ about:
 **July 2026**  
 
 - [Intermediate R for bioinformatics](portfolio.qmd#intermediate-r). *Date TBC.*    
-- [Intermediate Shell for bioinoformatics](portfolio.qmd#intermediate-shell). *Date TBC.*      
+- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell). *Date TBC.*      
 
 **Other workshops**
 
