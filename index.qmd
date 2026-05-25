@@ -16,12 +16,12 @@ about:
 **June 2026**  
 
 - [Introduction to Shell](portfolio.qmd#intro-shell) (3-4.06.2026). [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/introduction-to-shell-for-bioinformatics-tickets-1988966236555?aff=oddtdtcreator)    
-- [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  *Registrations opening soon...*  
+- [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  [*Registrations open.*](https://www.eventbrite.co.nz/e/introduction-to-r-tickets-1988965814292?aff=oddtdtcreator)  
 
 **July 2026**  
 
-- [Intermediate R for bioinformatics](portfolio.qmd#intermediate-r). *Date TBC.*    
-- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell). *Date TBC.*      
+- [Intermediate R for bioinformatics](portfolio.qmd#intermediate-r). (8-9.07.2026). *Registrations open late June.*      
+- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell). (29.07.2026).  *Registrations open mid-July.*       
 
 **Other workshops**
 
