@@ -15,7 +15,6 @@ about:
 
 **June 2026**  
 
-- [Introduction to Shell](portfolio.qmd#intro-shell) (3-4.06.2026). *Registrations full.*   
 - [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/introduction-to-r-tickets-1988965814292?aff=oddtdtcreator)  
 
 **July 2026**  
@@ -68,6 +67,10 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 ::: panel-tabset
 ### 2026
+
+**June 2026**   
+- Introduction to Shell for Bioinformatics (3-4.06.2026).   
+
 
 **May**    
 - Reproducible Bioinformatics with Nextflow and nf-core (20.05.2026).  
