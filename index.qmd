@@ -15,7 +15,7 @@ about:
 
 **June 2026**  
 
-- [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/introduction-to-r-tickets-1988965814292?aff=oddtdtcreator)  
+- [Introduction to R](portfolio.qmd#intro-r) (10-11.06.2026).  *Workshop full.*    
 
 **July 2026**  
 
