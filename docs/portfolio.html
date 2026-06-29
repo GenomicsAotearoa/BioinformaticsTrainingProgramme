@@ -653,19 +653,19 @@ This workshop will include:</p>
 <h4 class="anchored" data-anchor-id="visualisation-w-ggplot2"><strong>Visualisation with ggplot2</strong> &nbsp; | &nbsp; Toolbox 🛠️: Tier 1</h4>
 <p><img src="assets/workshop-mainpage-image/ggplot2-logo.png" alt="ggplot2 logo" class="workshop-image"></p>
 </section>
-<p>Visualisation is more than just the code used to make a plot.<br>
-The aim for this workshop is to showcase the full process of visualising data. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.<br>
-&nbsp;<br>
+<p>Good visualisation is about more than just writing the correct code. Visualisation is communication, and good communication requires thinking about how we as the scientist/data analyst/creator convey our message to the reader. This one-day workshop will provide you with a toolbox of skills and code examples to help you create clear, visually interesting visualisations which accurately communicate a message. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.</p>
+<p>&nbsp;<br>
 This workshop is split into four parts:</p>
 <ul>
 <li>Basic <code>ggplot2</code> format and showcase of what can be done.<br>
 </li>
-<li>Some data transformations and tidying, visualisations for exploratory analysis.</li>
-<li>Showcasing and exploring community visualisations<br>
+<li>Types of data visualisations and their impact on how we interpret the data.<br>
 </li>
-<li>Group walkthrough of creating a visualisation of example genomic data.</li>
+<li>Showcasing and exploring community visualisations.<br>
+</li>
+<li>Group walkthrough of creating a visualisation of example genomic data, evolving our plot from a simple boxplot to a refined visualisation.</li>
 </ul>
-<p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner level (have completed <a href="#intro-r">Introduction to R</a> or have equivalent experience). Some familiarity with <code>ggplot2</code> will be useful but not required.</p>
+<p><strong>Prerequisites:</strong> Comfortable using R / R Studio at a beginner level (have completed <a href="#intro-r">Introduction to R</a> or have equivalent experience). Some familiarity with <code>ggplot2</code> and tidyverse tools will be useful but not required.</p>
 <p><strong>Format:</strong> Taught over one day (10am - 4pm).<br>
 &nbsp;<br>
 <strong>View the full workshop material here:</strong> <a href="https://genomicsaotearoa.github.io/visualization_day/">From Start to Finish: Visualising Your Data</a></p>
@@ -935,6 +935,11 @@ window.addEventListener('hashchange', function() {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

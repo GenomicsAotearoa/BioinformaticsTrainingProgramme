@@ -343,17 +343,17 @@ This workshop will include:
 <img src="assets/workshop-mainpage-image/ggplot2-logo.png" alt="ggplot2 logo" class="workshop-image">
 :::
 
-Visualisation is more than just the code used to make a plot.  
-The aim for this workshop is to showcase the full process of visualising data. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created.  
+Good visualisation is about more than just writing the correct code. Visualisation is communication, and good communication requires thinking about how we as the scientist/data analyst/creator convey our message to the reader. This one-day workshop will provide you with a toolbox of skills and code examples to help you create clear, visually interesting visualisations which accurately communicate a message. This includes some basic exploratory analysis, some minor data transformation, and then thinking about the visual story. Finally, a fully realised visualisation will be created. 
+
 &nbsp;    
 This workshop is split into four parts:
 
 - Basic `ggplot2` format and showcase of what can be done.  
-- Some data transformations and tidying, visualisations for exploratory analysis.
-- Showcasing and exploring community visualisations   
-- Group walkthrough of creating a visualisation of example genomic data.  
+- Types of data visualisations and their impact on how we interpret the data.  
+- Showcasing and exploring community visualisations.     
+- Group walkthrough of creating a visualisation of example genomic data, evolving our plot from a simple boxplot to a refined visualisation.     
 
-**Prerequisites:** Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](#intro-r) or have equivalent experience). Some familiarity with `ggplot2` will be useful but not required.
+**Prerequisites:** Comfortable using R / R Studio at a beginner level (have completed [Introduction to R](#intro-r) or have equivalent experience). Some familiarity with `ggplot2` and tidyverse tools will be useful but not required.
 
 **Format:** Taught over one day (10am - 4pm).  
 &nbsp;    
