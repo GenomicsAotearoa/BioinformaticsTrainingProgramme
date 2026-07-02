@@ -15,7 +15,7 @@ about:
 **July 2026**  
 
 - [Intermediate R for bioinformatics](portfolio.qmd#intermediate-r). (8-9.07.2026). [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/1992319768058?aff=oddtdtcreator)     
-- [VIsualisation with ggplot2](portfolio.qmd#visualisation-w-ggplot2). (22.07.2026). *Registrations open early July.*      
+- [Visualisation with ggplot2](portfolio.qmd#visualisation-w-ggplot2). (22.07.2026). *Registrations open early July.*      
 - [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell). (29.07.2026).  *Registrations open mid-July.*       
 
 **Other workshops**
