@@ -398,14 +398,14 @@ This workshop will teach you how to:
 :::
 
 
-Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing.  
+Take your shell skills to the next level! This workshop builds on skills learnt in the Introduction to Shell workshop, and introduces new shell programmes for inspecting and manipulating text data and automating your file-processing.  
+
 This workshop includes:
 
 - An overview of the Shell, UNIX and Linux.  
 - Downloading data from a remote source and checking data integrity.  
-- Recap navigating files and directories, and commands used in routine tasks.  
-- Inspecting and manipulating data (the `head`, `tail`, `grep`, `sed` and `awk` commands).  
-- Automating file processing.  
+- Recap on redirection, pipes and command substitution.    
+- Inspecting and manipulating data (the `cut`, `grep`, `sort`, `join`, `sed` and `awk` commands).  
 - Challenges: solve example molecular biology problems using shell scripts.
 
 **Prerequisites:** Comfortable using bash / shell (have completed [Introduction to Shell](#intro-shell) or have equivalent experience).
