@@ -14,8 +14,8 @@ about:
  
 **July 2026**  
 
-- [Visualisation with ggplot2](portfolio.qmd#visualisation-w-ggplot2). (22.07.2026). [*Registrations full, join waitlist*](https://www.eventbrite.co.nz/e/visualisation-with-ggplot2-tickets-1992794812930?aff=oddtdtcreator)       
-- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell). (29.07.2026).  *Registrations open mid-July.*      
+- [Visualisation with ggplot2](portfolio.qmd#visualisation-w-ggplot2) (22.07.2026). [*Registrations full, join waitlist*](https://www.eventbrite.co.nz/e/visualisation-with-ggplot2-tickets-1992794812930?aff=oddtdtcreator)       
+- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell) (29.07.2026).  [*Registrations open*](https://www.eventbrite.co.nz/e/intermediate-shell-for-bioinformatics-tickets-1993788601378?aff=oddtdtcreator)      
 
 **August 2026**
 
