@@ -220,6 +220,24 @@ Our ***Training Affiliates*** are early-mid career researchers and scientists wh
 
 \
 
+<table>
+  <tr>
+    <td>
+      <img src="training-affiliates/NatalieForsdick.JPG" alt="Natalie Forsdick" style="width:200px; height:250px; object-fit:cover; border-radius:50%;">
+    </td>
+    <td style="padding-left:20px; text-align: justify;">
+      <strong>Dr Natalie Forsdick, Bioeconomy Science Institute</strong><br>
+      Natalie is a conservation genomics researcher at the Bioeconomy Science Institute (formerly Manaaki Whenua - Landcare Research). She uses reference genome assembly and population genomic analysis to inform threatened species management for diverse including birds, plants, and insects. She has a keen interest in the impacts of hybridisation, and is an advocate for best practice data management.
+
+    Contact Natalie at [forsdickn@landcareresearch.co.nz](mailto:forsdickn@landcareresearch.co.nz)
+
+ <br>
+    </td>
+  </tr>
+</table>
+
+\
+
 
 
 

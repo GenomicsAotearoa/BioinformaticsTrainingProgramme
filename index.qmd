@@ -14,7 +14,6 @@ about:
  
 **July 2026**  
 
-- [Visualisation with ggplot2](portfolio.qmd#visualisation-w-ggplot2) (22.07.2026). *Workshop full.*       
 - [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell) (29.07.2026).  [*Registrations open*](https://www.eventbrite.co.nz/e/intermediate-shell-for-bioinformatics-tickets-1993788601378?aff=oddtdtcreator)      
 
 **August 2026**
@@ -76,6 +75,7 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 **July**  
 
+- Visualisation with ggplot2 (22.07.2026).  
 - Intermediate R for bioinformatics (8-9.07.2026).     
 
 
