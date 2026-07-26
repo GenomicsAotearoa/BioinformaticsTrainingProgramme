@@ -32,6 +32,19 @@ about:
 *See the [National Training Calendar](https://www.reannz.co.nz/products-and-services/training-and-consultancy/training/training-calendar) maintained by REANNZ for more training opportunities*
 :::
 
+
+::: {.callout-note}
+# UPCOMING EVENTS
+
+
+**Summer Institute in Statistical Genomics**   
+*23rd Nov - 4th Dec*  
+Waipapa Taumata Rau – University of Auckland City Campus  
+[***Registrations now open***](https://events.humanitix.com/southern-ssig-auckland-2026).   
+*Student scholarships available, see registration link to apply.* 
+[![](sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
+
+:::
 \
 
 ## Overview of the Bioinformatics Training Programme
