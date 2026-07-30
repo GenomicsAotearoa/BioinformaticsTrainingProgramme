@@ -12,10 +12,6 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
  
-**July 2026**  
-
-- [Intermediate Shell for bioinformatics](portfolio.qmd#intermediate-shell) (29.07.2026).  [*Registrations open*](https://www.eventbrite.co.nz/e/intermediate-shell-for-bioinformatics-tickets-1993788601378?aff=oddtdtcreator)      
-
 **August 2026**
 
 - [Introduction to bash scripting/HPC job scheduler](portfolio.qmd#bash-script-hpc-job) (20.08.2026)   
@@ -37,12 +33,20 @@ about:
 # UPCOMING EVENTS
 
 
+**Otago Bioinformatics Spring School**  
+*16th Nov - 20th Nov*  
+University of Otago, Ōtepoti Dunedin   
+[***Expressions of interest now open***](https://otagobioinformaticsspringschool.github.io/2026/)
+
+---
+
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
-[***Registrations now open***](https://events.humanitix.com/southern-ssig-auckland-2026).   
+[***Registrations now open***](https://events.humanitix.com/southern-ssig-auckland-2026)   
 *Student scholarships available, see registration link to apply.* 
 [![](sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
+
 
 :::
 \
