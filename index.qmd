@@ -30,13 +30,21 @@ about:
 
 
 ::: {.callout-note}
-# UPCOMING EVENTS
+# UPCOMING GA SPONSORED EVENTS
 
+**MapNet NZ 2026**  
+*3rd Nov - 5th Nov*  
+LIC, Hamilton    
+[***Registrations and abstract submissions now open***](https://nzmapnet.github.io/)  
+*Student travel grants available, see Register tab to apply.*  
+[![](mapnet26.PNG){width=60%}](https://nzmapnet.github.io/)  
+
+---
 
 **Otago Bioinformatics Spring School**  
 *16th Nov - 20th Nov*  
 University of Otago, Ōtepoti Dunedin   
-[***Expressions of interest now open***](https://otagobioinformaticsspringschool.github.io/2026/)
+[***Expressions of interest now open***](https://otagobioinformaticsspringschool.github.io/2026/)  
 
 ---
 
