@@ -98,6 +98,11 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
+**August**    
+
+- Intermediate shell for Bioinformatics (6.08.2026)  
+ 
+ 
 **July**  
 
 - Visualisation with ggplot2 (22.07.2026).  
