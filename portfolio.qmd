@@ -99,7 +99,7 @@ Some of the topics covered in the workshop are:
 
 **Format:** Taught over one day (10am - 4pm) or two half days (9:30am-12:30pm).   
 &nbsp;  
-**View the full workshop material here:** [Introduction to the R Programming Language](https://genomicsaotearoa.github.io/Introduction-to-R/)  
+**View the full workshop material here:** [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/)  
 
 :::
 
