@@ -325,6 +325,34 @@ This workshop will include:
 
 :::
 
+---
+
+
+::: {.workshop-block}  
+
+&nbsp;  
+
+::: {.workshop-header-row}
+#### **Mini-series: GOseq for non-model organisms** &nbsp; | &nbsp; Workflow 🧬: Tier 2 {#goseq}
+<img src="" alt="" class="workshop-image">
+::: 
+
+&nbsp;
+
+We get deep into the nitty-gritty of how to perform gene ontology (GO) analysis for non-model organisms. Specifically, we run through GOseq analysis in R, focusing on how to perform this for organisms that are not in the supported organisms list in `goseq()` and don’t have an annotation package in Bioconductor. You can [check if your research organism is listed here.](https://bioconductor.org/packages/release/BiocViews.html#___OrgDb) If not, this workshop might be for you.
+
+This is an extension on our [RNA-seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/) workshop, which covers GOseq analysis using the supported organism *Saccharomyces cerevisiae* in the lesson on Functional analysis.  
+
+**Prerequisites:** Have attended our [Introduction to R](https://genomicsaotearoa.github.io/Introduction-to-R/) workshop or have equivalent experience. Have attended our [RNA-seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/) workshop, or have previous experience with an RNA-seq workflow.  
+
+**Set-up:** This workshop is run locally on your own computer. Before the workshop, you must install R and RStudio. The full set-up instructions can be found at the top of the material.  
+
+**Format:** Taught over two hours.  
+&nbsp;  
+**View the full workshop material here:** [GOseq for non-models](https://genomicsaotearoa.github.io/genomics-mini-series/mini-series-gene-ontology.html)  
+
+:::
+
 \
 
 ## Bioinformatic Toolbox 🛠️
