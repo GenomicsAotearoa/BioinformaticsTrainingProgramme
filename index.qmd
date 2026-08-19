@@ -15,11 +15,11 @@ about:
 **August 2026**
 
 - [Introduction to bash scripting/HPC job scheduler](portfolio.qmd#bash-script-hpc-job) (20.08.2026)  *Registrations closed.*    
-- [Constructing pangenome graphs](portfolio.qmd#pangenome-graphs) (26.08.2026)  [*Workshop full, join waitlist*](https://www.eventbrite.co.nz/e/constructing-pangenome-graphs-tickets-1997072235817?aff=oddtdtcreator)  
+- [Constructing pangenome graphs](portfolio.qmd#pangenome-graphs) (26.08.2026)  [*Registrations full, join waitlist*](https://www.eventbrite.co.nz/e/constructing-pangenome-graphs-tickets-1997072235817?aff=oddtdtcreator)  
 
 **September 2026**
 
-- [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (1-2.09.2026)  [*Registrations open.*](https://www.eventbrite.co.nz/e/introduction-to-r-for-bioinformatics-tickets-1997401442483?aff=oddtdtcreator)   
+- [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (1-2.09.2026)  [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/introduction-to-r-for-bioinformatics-tickets-1997401442483?aff=oddtdtcreator)   
 - [Reproducibility with git and quarto](portfolio.qmd#git-and-quarto) (15-16.09.2026)  
 - [Introduction to Shell for bioinformatics](portfolio.qmd#intro-shell) (23.09.2026)	 
 
