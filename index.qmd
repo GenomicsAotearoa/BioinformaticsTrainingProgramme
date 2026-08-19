@@ -14,7 +14,7 @@ about:
  
 **August 2026**
 
-- [Introduction to bash scripting/HPC job scheduler](portfolio.qmd#bash-script-hpc-job) (20.08.2026)  [*Registrations open*](https://www.eventbrite.co.nz/e/introduction-to-bash-scripting-and-hpc-job-scheduler-tickets-1996425506432?aff=oddtdtcreator)   
+- [Introduction to bash scripting/HPC job scheduler](portfolio.qmd#bash-script-hpc-job) (20.08.2026)  *Registrations closed.*    
 - [Constructing pangenome graphs](portfolio.qmd#pangenome-graphs) (26.08.2026)  [*Workshop full, join waitlist*](https://www.eventbrite.co.nz/e/constructing-pangenome-graphs-tickets-1997072235817?aff=oddtdtcreator)  
 
 **September 2026**
