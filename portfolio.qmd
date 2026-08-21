@@ -265,7 +265,7 @@ This workshop will include:
 
 **Prerequisites:** Comfortable working with Shell. Have completed [Introduction to shell](#intro-shell) or have equivalent knowledge (*e.g.,* Able to navigate files/directories, use full vs relative paths, and use a command-line text editor.)  
 
-**Format:** Taught over one day (10am - 4pm).  
+**Format:** Taught over one half day (10am - 2:30 pm).  
 &nbsp;  
 **View the full workshop material here:** [Unlock the Power of Pangenome Graphs](https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/)
 
@@ -352,6 +352,8 @@ This is an extension on our [RNA-seq Data Analysis](https://genomicsaotearoa.git
 **View the full workshop material here:** [GOseq for non-models](https://genomicsaotearoa.github.io/genomics-mini-series/mini-series-gene-ontology.html)  
 
 :::
+
+---
 
 \
 
@@ -522,7 +524,7 @@ In this workshop you will:
 
 **Prerequisites:** Comfortable using bash / shell. Comfortable with any tier 1 or tier 2 genomic analysis workflow. Familiarity with HPC job scheduling and Git/GitHub will be useful but not required.      
 
-**Format:** Taught over one day (9:30 am - 1:00 pm).  
+**Format:** Taught over one half day (9:30 am - 1:00 pm).  
 &nbsp;  
 **View the full workshop material here:** [Reproducible Bioinformatics Workflows with Nextflow and nf-core](https://genomicsaotearoa.github.io/Nextflow_Workshop/)
 
