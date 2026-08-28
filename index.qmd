@@ -12,9 +12,6 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
  
-**August 2026**
-
-- [Constructing pangenome graphs](portfolio.qmd#pangenome-graphs) (26.08.2026).  *Registrations full.*  
 
 **September 2026**
 
@@ -99,6 +96,7 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 **August**    
 
+- Constructing pangenome graphs (26.08.2026)      
 - Introduction to bash scripting/HPC job scheduler (20.08.2026)     
 - Mini series: GOseq for non-models (12.08.2026)  
 - Intermediate shell for Bioinformatics (6.08.2026)  
