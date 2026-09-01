@@ -16,7 +16,7 @@ about:
 **September 2026**
 
 - [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (1-2.09.2026)   *Registrations closed.*   
-- [Reproducibility with git and quarto](portfolio.qmd#git-and-quarto) (15-16.09.2026)  
+- [Reproducibility with git and quarto](portfolio.qmd#git-and-quarto) (15-16.09.2026)  [*Registrations open*](https://www.eventbrite.co.nz/e/reproducibility-with-git-and-quarto-tickets-1999067647146?aff=oddtdtcreator)  
 - [Introduction to Shell for bioinformatics](portfolio.qmd#intro-shell) (23.09.2026)	 
 
 **Other workshops**
