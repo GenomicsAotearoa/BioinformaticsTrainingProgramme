@@ -14,8 +14,7 @@ about:
  
 
 **September 2026**
-
-- [Reproducibility with git and quarto](portfolio.qmd#git-and-quarto) (15-16.09.2026).  *Registrations closed.*  
+    
 - [Introduction to Shell for bioinformatics](portfolio.qmd#intro-shell) (23.09.2026). [*Registrations open*](https://www.eventbrite.co.nz/e/introduction-to-shell-for-bioinformatics-tickets-1999731834749?aff=oddtdtcreator)  
 
 **October 2026**  
@@ -101,15 +100,16 @@ Workshops are advertised approximately two weeks in advance by email, which will
 
 **September**    
 
+- Reproducibility with Git and Quarto (15-16.09.2026)  
 - Introduction to R for bioinformatics (1-2.09.2026)  
 
 
 **August**    
 
-- Constructing pangenome graphs (26.08.2026)      
+- Constructing Pangenome Graphs (26.08.2026)      
 - Introduction to bash scripting/HPC job scheduler (20.08.2026)     
 - Mini series: GOseq for non-models (12.08.2026)  
-- Intermediate shell for Bioinformatics (6.08.2026)  
+- Intermediate Shell for Bioinformatics (6.08.2026)  
  
  
 **July**  
