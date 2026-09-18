@@ -40,12 +40,6 @@ LIC, Hamilton
 
 ---
 
-**Otago Bioinformatics Spring School**  
-*16th Nov - 20th Nov*  
-University of Otago, Ōtepoti Dunedin   
-[***Expressions of interest now open***](https://otagobioinformaticsspringschool.github.io/2026/)  
-
----
 
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
@@ -66,7 +60,7 @@ Training is offered through a portfolio of free, interactive workshops instructe
 
 We work closely with our partners at REANNZ ([Research and Education Advanced Network New Zealand](https://www.reannz.co.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
-Since its inception in 2019, Genomics Aotearoa's training programme has hosted more than 120 workshops reaching more than 2,400 participants.
+Since its inception in 2019, Genomics Aotearoa's training programme has hosted more than 130 workshops reaching more than 2,600 participants.
 
 ## Workshop structure, style and expectation
 
@@ -76,7 +70,9 @@ All you will need to complete the workshop is a computer with an internet connec
 
 Workshops are either in person or online (zoom), and are typically run across one or two days. See workshop portfolio for individual workshop scheduling times.  
 
-All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
+All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment.  To encourage interactive learner participation, we do not record workshops and generally do not allow the use of external recording tools, including AI tools, during workshops. We are committed to accessibility and ask that learners who need additional tools to fully participate to contact the workshop organisers prior to the workshop day, so that suitable arrangements can be made.  
+
+
 
 ## Are you the right person to attend our training?  
 
