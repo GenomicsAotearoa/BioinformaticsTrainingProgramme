@@ -15,7 +15,7 @@ about:
 
 **September 2026**
     
-- [Introduction to Shell for bioinformatics](portfolio.qmd#intro-shell) (23.09.2026). [*Registrations open*](https://www.eventbrite.co.nz/e/introduction-to-shell-for-bioinformatics-tickets-1999731834749?aff=oddtdtcreator)  
+- [Introduction to Shell for bioinformatics](portfolio.qmd#intro-shell) (23.09.2026). *Registrations closed*.  
 
 **October 2026**  
 
