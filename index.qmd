@@ -15,7 +15,7 @@ about:
 
 **October 2026**  
 
-- [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (08.10.2026). [*Register here.*](https://www.eventbrite.co.nz/e/introduction-to-r-for-bioinformatics-tickets-2001815228235?aff=oddtdtcreator)  
+- [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (08.10.2026). [*Registrations full, join waitlist.*](https://www.eventbrite.co.nz/e/introduction-to-r-for-bioinformatics-tickets-2001815228235?aff=oddtdtcreator)  
 
 
 **Other workshops**
