@@ -30,9 +30,8 @@ about:
 **MapNet NZ 2026**  
 *3rd Nov - 5th Nov*  
 LIC, Hamilton    
-[***Registrations and abstract submissions now open***](https://nzmapnet.github.io/)  
-*Student travel grants available, see Register tab to apply.*  
-[![](mapnet26.PNG){width=60%}](https://nzmapnet.github.io/)  
+[***Registrations and abstract submissions closing soon!***](https://nzmapnet.github.io/)  
+[![](images/mapnet26.PNG){width=60%}](https://nzmapnet.github.io/)  
 
 ---
 
@@ -41,9 +40,15 @@ LIC, Hamilton
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
 [***Registrations now open***](https://events.humanitix.com/southern-ssig-auckland-2026)   
-*Student scholarships available, see registration link to apply.* 
-[![](sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
+[![](images/sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
 
+---
+
+**eResearch Conference 2027**  
+*10-12th February, 2027*  
+Te Whanganui-a-Tara Wellington  
+[***Save the date, more details coming soon***](https://eresearchnz.co.nz/)
+[![](images/eresearch.png){width=60%}](https://eresearchnz.co.nz/)
 
 :::
 \
