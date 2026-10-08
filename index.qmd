@@ -13,11 +13,6 @@ about:
 ## UPCOMING WORKSHOPS
  
 
-**October 2026**  
-
-- [Introduction to R for bioinformatics](portfolio.qmd#intro-r) (08.10.2026). *Registrations closed.*
-
-
 **Other workshops**
 
 - Version control with Git (29.10.2026) [*Register here.*](https://www.eventbrite.co.nz/e/workshop-version-control-with-git-tickets-1993967539587?aff=oddtdtcreator) This is a 
@@ -47,8 +42,9 @@ Waipapa Taumata Rau – University of Auckland City Campus
 
 ---
 
-**eResearch Conference 2027**  
-*10-12th February, 2027*  
+**eResearch Conference and Carpentry Connect 2027**  
+*9th February, 2027 - Carpentry Connect*  
+*10-12th February, 2027 - eResearch Conference*    
 Te Whanganui-a-Tara Wellington  
 [***Save the date, more details coming soon***](https://eresearchnz.co.nz/)
 [![](images/eresearch.png){width=60%}](https://eresearchnz.co.nz/)
@@ -97,6 +93,9 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
+**October 2026**  
+
+- Introduction to R for bioinformatics (08.10.2026)   
 
 **September**    
 
