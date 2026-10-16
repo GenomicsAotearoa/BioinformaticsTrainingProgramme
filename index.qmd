@@ -28,7 +28,7 @@ Software Carpentry workshop, see the [workshop page here.](https://nzcarpentries
 **MapNet NZ 2026**  
 *3rd Nov - 5th Nov*  
 LIC, Hamilton    
-[***Registrations and abstract submissions closing soon!***](https://nzmapnet.github.io/)  
+[***Registrations and abstract submissions closed.***](https://nzmapnet.github.io/)  
 [![](images/mapnet26.PNG){width=60%}](https://nzmapnet.github.io/)  
 
 ---
@@ -37,7 +37,7 @@ LIC, Hamilton
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
-[***Registrations now open***](https://events.humanitix.com/southern-ssig-auckland-2026)   
+[***Registrations open***](https://events.humanitix.com/southern-ssig-auckland-2026)   
 [![](images/sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
 
 ---
