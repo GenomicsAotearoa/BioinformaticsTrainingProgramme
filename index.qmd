@@ -9,13 +9,22 @@ about:
 ---
 
 
+
+::: {.callout-important}
+# Main website page is currently down. 
+
+Our main website at <https://www.genomics-aotearoa.org.nz/> is currently unavailable as we are experiencing issues with our host. 
+
+:::
+
+
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
  
 
 **Other workshops**
 
-- Version control with Git (29.10.2026) [*Register here.*](https://www.eventbrite.co.nz/e/workshop-version-control-with-git-tickets-1993967539587?aff=oddtdtcreator) This is a 
+- Version control with Git (29.10.2026) *Registrations closed.* This is a 
 Software Carpentry workshop, see the [workshop page here.](https://nzcarpentries.github.io/2026-10-29-nz-online/)
 
 *See the [National Training Calendar](https://www.reannz.co.nz/products-and-services/training-and-consultancy/training/training-calendar) maintained by REANNZ for more training opportunities*
@@ -46,7 +55,7 @@ Waipapa Taumata Rau – University of Auckland City Campus
 *9th February, 2027 - Carpentry Connect*  
 *10-12th February, 2027 - eResearch Conference*    
 Te Whanganui-a-Tara Wellington  
-[***Save the date, more details coming soon***](https://eresearchnz.co.nz/)
+[***Abstract submissions open***](https://eresearchnz.co.nz/)
 [![](images/eresearch.png){width=60%}](https://eresearchnz.co.nz/)
 
 :::
