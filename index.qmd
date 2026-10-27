@@ -10,12 +10,6 @@ about:
 
 
 
-::: {.callout-important}
-# Main website page is currently down. 
-
-Our main website at <https://www.genomics-aotearoa.org.nz/> is currently unavailable as we are experiencing issues with our host. 
-
-:::
 
 
 ::: {.callout-note}
@@ -46,7 +40,7 @@ LIC, Hamilton
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
-[***Registrations open***](https://events.humanitix.com/southern-ssig-auckland-2026)   
+[***Registrations closing soon...***](https://events.humanitix.com/southern-ssig-auckland-2026)   
 [![](images/sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
 
 ---
@@ -55,7 +49,7 @@ Waipapa Taumata Rau – University of Auckland City Campus
 *9th February, 2027 - Carpentry Connect*  
 *10-12th February, 2027 - eResearch Conference*    
 Te Whanganui-a-Tara Wellington  
-[***Abstract submissions open***](https://eresearchnz.co.nz/)
+[***Abstract submissions open***](https://eresearchnz.co.nz/)  
 [![](images/eresearch.png){width=60%}](https://eresearchnz.co.nz/)
 
 :::

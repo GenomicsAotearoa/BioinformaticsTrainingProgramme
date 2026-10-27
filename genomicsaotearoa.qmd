@@ -16,9 +16,3 @@ Genomics Aotearoa is a collaborative research platform which brings researchers 
 
 You can learn more about Genomics Aotearoa, including details about the research, highlights of our recent work stories, and other news at [our website](https://www.genomics-aotearoa.org.nz/).
 
-::: {.callout-important}
-# Main website page is currently down. 
-
-Our main website at <https://www.genomics-aotearoa.org.nz/> is currently unavailable as we are experiencing issues with our host. 
-
-:::
