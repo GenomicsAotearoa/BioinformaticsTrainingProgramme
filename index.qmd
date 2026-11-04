@@ -15,11 +15,11 @@ about:
 ::: {.callout-note}
 ## UPCOMING WORKSHOPS
  
+*The next GA workshops will be scheduled in February 2027.*
 
 **Other workshops**
 
-- Version control with Git (29.10.2026) *Registrations closed.* This is a 
-Software Carpentry workshop, see the [workshop page here.](https://nzcarpentries.github.io/2026-10-29-nz-online/)
+
 
 *See the [National Training Calendar](https://www.reannz.co.nz/products-and-services/training-and-consultancy/training/training-calendar) maintained by REANNZ for more training opportunities*
 :::
@@ -40,7 +40,7 @@ LIC, Hamilton
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
-[***Registrations closing soon...***](https://events.humanitix.com/southern-ssig-auckland-2026)   
+***Registrations closed.***  
 [![](images/sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
 
 ---
