@@ -16,3 +16,19 @@ Genomics Aotearoa is a collaborative research platform which brings researchers 
 
 You can learn more about Genomics Aotearoa, including details about the research, highlights of our recent work stories, and other news at [our website](https://www.genomics-aotearoa.org.nz/).
 
+\
+
+::: {.callout-tip appearance="minimal"}
+# GENOMICS AOTEAROA ANNUAL MEETING 2027  
+
+Genomics Aotearoa's [Annual Meeting](https://www.genomics-aotearoa.org.nz/news-and-events/genomics-aotearoa-annual-meeting-february-2027) will take place as part of [eResearch NZ / eRangahau Aotearoa 2027](https://eresearchnz.co.nz/) in Wellington, on the first day of the main programme (Wednesday 10 Feb 2027). It will feature a genomics and bioinformatics focus for the plenary sessions and a genomics-specific stream during parallel sessions.
+
+The Genomics Aotearoa Annual Meeting will showcase invited talks on research funded by Genomics Aotearoa. 
+
+Genomics Aotearoa would like to warmly invite all members of the genomics research community to attend this day of the conference in particular. Registration, with single-day rates, will be opening soon. 
+
+If you submit a genomics research abstract to the conference Call for Submissions and it is accepted for a session outside the GA Annual Meeting, we will ensure your talk does not clash with the Genomics Aotearoa sessions.
+
+
+:::
+\

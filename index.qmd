@@ -19,6 +19,8 @@ about:
 
 **Other workshops**
 
+- [Evaluating and Improving HPC Job Efficiency by REANNZ](https://www.eventbrite.co.nz/e/evaluating-and-improving-hpc-job-efficiency-tickets-2004254249413?aff=oddtdtcreator&keep_tld=true)  (Tuesday 24th Nov, 10 am - 3pm)
+
 
 
 *See the [National Training Calendar](https://www.reannz.co.nz/products-and-services/training-and-consultancy/training/training-calendar) maintained by REANNZ for more training opportunities*
@@ -28,19 +30,18 @@ about:
 ::: {.callout-note}
 # UPCOMING GA SPONSORED EVENTS
 
-**MapNet NZ 2026**  
-*3rd Nov - 5th Nov*  
-LIC, Hamilton    
-[***Registrations and abstract submissions closed.***](https://nzmapnet.github.io/)  
-[![](images/mapnet26.PNG){width=60%}](https://nzmapnet.github.io/)  
+
+**Otago Bioinformatics Spring School**  
+*16th - 20th Nov*  
+University of Otago, Dunedin  
+Registrations have closed.  [Learn more about the event here.](https://otagobioinformaticsspringschool.github.io/2026/)
 
 ---
-
 
 **Summer Institute in Statistical Genomics**   
 *23rd Nov - 4th Dec*  
 Waipapa Taumata Rau – University of Auckland City Campus  
-***Registrations closed.***  
+[***Registrations close 6th Nov 11:59pm.***](https://events.humanitix.com/southern-ssig-auckland-2026)  
 [![](images/sisg2026.PNG){width=60%}](https://events.humanitix.com/southern-ssig-auckland-2026) 
 
 ---
@@ -96,7 +97,12 @@ Workshops are advertised approximately two weeks in advance by email, which will
 ::: panel-tabset
 ### 2026
 
-**October 2026**  
+
+**November**  
+
+- RNA-seq Data Analysis @ MapNet 2026 (05.11.2026)
+
+**October**  
 
 - Introduction to R for bioinformatics (08.10.2026)   
 

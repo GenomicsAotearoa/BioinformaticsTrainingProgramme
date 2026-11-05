@@ -122,3 +122,24 @@ h4 {
 }
 
 
+/* Callouts */
+
+/* Make callout text the same size as the main body text */
+div.callout .callout-body,
+div.callout .callout-body-container,
+div.callout .callout-body-container p,
+div.callout .callout-body-container li,
+div.callout .callout-title-container,
+div.callout .callout-title {
+  font-size: 1rem !important;
+}
+
+/* Add space between the header and the body text */
+div.callout.callout-style-default .callout-body-container {
+  padding-top: 0.75rem;
+}
+
+/* Simple-style callouts (no header bar) */
+div.callout.callout-style-simple .callout-body-container {
+  padding-top: 0.5rem;
+}
