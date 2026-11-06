@@ -148,11 +148,29 @@ Some of the topics covered in the workshop are:
 - Differential expression analysis
 - Over-representation analysis
 
+We have two versions of this workshop, one for model species and one for non-model species. Both assume a genome is available to use for read mapping. 
+
+Model species:  
+
+- Yeast (*Saccaromyces cerevisiae*) dataset  
+- Illumina single-end reads   
+- Cutadapt/HISAT2/featureCounts pipeline  
+- Bioconductor annotation package for over-representation analysis.   
+
+Non-model species:  
+
+-  New Zealand wrasse (*Notolabrus celidotus*) dataset  
+- Illumina paired-end reads   
+- Trimmomatic/STAR pipeline  
+- Over-representation analysis is performed using custom annotation files.   
+
 **Prerequisites:** This is a beginner-friendly workshop and no prior experience in analysing RNA-seq data is required. However, we assume the learner has foundational genomic, R and shell knowledge. See our Foundational programme for more details.    
 
 **Format:** Taught over two half days (9am - 1pm).  
 &nbsp;  
-**View the full workshop material here:** [RNA-seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/)  
+**View the full workshop material here:**  
+- [RNA-seq Data Analysis (yeast dataset)](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/)   
+- [RNA-seq Data Analysis (wrasse dataset)](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow-NZ/)  
 
 :::
 
