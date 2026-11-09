@@ -21,6 +21,8 @@ You can learn more about Genomics Aotearoa, including details about the research
 ::: {.callout-tip appearance="minimal"}
 # GENOMICS AOTEAROA ANNUAL MEETING 2027  
 
+[![](images/GA-Wide-Colour-BlackText-AM2027.png){width=80%}](https://www.genomics-aotearoa.org.nz/news-and-events/genomics-aotearoa-annual-meeting-february-2027)
+
 Genomics Aotearoa's [Annual Meeting](https://www.genomics-aotearoa.org.nz/news-and-events/genomics-aotearoa-annual-meeting-february-2027) will take place as part of [eResearch NZ / eRangahau Aotearoa 2027](https://eresearchnz.co.nz/) in Wellington, on the first day of the main programme (Wednesday 10 Feb 2027). It will feature a genomics and bioinformatics focus for the plenary sessions and a genomics-specific stream during parallel sessions.
 
 The Genomics Aotearoa Annual Meeting will showcase invited talks on research funded by Genomics Aotearoa. 
